@@ -4,7 +4,7 @@ title: "Quartz"
 
 A tool for publishing [Obsidian](notes/obsidian) to the web, and what I'm using for this note you're reading now!
 
-It's built on top of [[Hugo SSG]].
+It's built on top of [[Hugo]].
 
 
 - [Official website](http://quartz.jzhao.xyz/)
