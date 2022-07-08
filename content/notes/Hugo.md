@@ -4,7 +4,7 @@ title: "Hugo"
 
 A [[Static site generator]] built in [[Golang]]. Has a reputation for being incredibly fast, and feature rich.
 
-It also has a reputation for having terrible documentation.
+It also has a reputation for having terrible documentation. So terrible that it drives users to alternatives, such as NextJS or [Zola](https://www.getzola.org/).
 - [Hugo is great, it's documentation is not](https://sagar.se/blog/hugo-documentation/)
  - this article is also a great write up of [[Technical writing]] and [[Atomic notes]]
 

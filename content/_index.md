@@ -8,4 +8,4 @@ My oldest hobby is playing [videogame](notes/videogame)s, and I'm currently play
 
 I thoroughly enjoy note taking and [personal knowledge management](notes/PKM). I refer back to my own [advice](/tags/advice) at times.
 
-2022-July-06: This version of my notes is live, using [Quartz](notes/Quartz%20by%20Jacky)! 
+2022-July-07: This version of my notes is live, using [Quartz](notes/Quartz%20by%20Jacky)! 
