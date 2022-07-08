@@ -23,10 +23,7 @@
   {{ end }}
 
   <!-- CSS Stylesheets and Fonts -->
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Source+Sans+Pro:wght@400;600;700&family=Fira+Code:wght@400;700&display=swap"
-    rel="stylesheet"
-  />
+  <link rel='stylesheet' href='//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css'>
   {{$sass := resources.Match "styles/[!_]*.scss" }}
   {{$css := slice }}
   {{range $sass}}

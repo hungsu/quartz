@@ -6,10 +6,30 @@
   --lt-colours-gray: var(--outlinegray) !important;
 }
 
-h1, h2, h3, h4, h5, h6, ol, ul, thead {
-  font-family: Inter;
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&family=Spectral+SC:wght@300&family=Spectral:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+
+body {
+  font-family: 'Spectral', serif;
+  font-size: 18px; // Feels good to me at 1200P on my 13" laptop
+  line-height: 1.6;
+  @media all and (min-width: 600px) {
+    font-size: 20px; // Feels good to me at 1200P on my 13" laptop
+  }
+}
+
+p {
+  font-family: 'Spectral', serif;
+}
+
+h1 {
+  font-family: 'Playfair Display', 'Spectral', serif;
   color: var(--dark);
-  font-weight: revert;
+}
+
+h2, h3, h4, h5, h6, ol, ul, thead {
+  font-family: 'Spectral', serif;
+  color: var(--dark);
+  font-weight: 700;
   margin: revert;
   padding: revert;
 
@@ -28,7 +48,6 @@ h1, h2, h3, h4, h5, h6, ol, ul, thead {
 }
 
 p, ul, text {
-  font-family: 'Source Sans Pro', sans-serif;
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -100,7 +119,6 @@ sup {
 }
 
 p, tbody, li {
-  font-family: Source Sans Pro;
   color: var(--gray);
   line-height: 1.5em;
 }
@@ -172,19 +190,18 @@ article {
   }
 
   & a {
-    font-family: Source Sans Pro;
-    font-weight: 600;
+    font-family: "Spectral SC";
+    font-weight: 300;
 
     &.internal-link {
       text-decoration: none;
-      background-color: transparentize(#8f9fa9, 0.85);
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
 
       &.broken {
         opacity: 0.5;
-        background-color: transparent; 
+        background-color: transparent;
       }
     }
     &.external-link::after {
@@ -194,7 +211,7 @@ article {
       bottom: 0.5em;
     }
   }
-  
+
   & p {
     overflow-wrap: anywhere;
   }
@@ -231,7 +248,6 @@ article {
 }
 
 .backlinks a {
-  font-weight: 600;
   font-size: 0.9rem;
 }
 
@@ -241,9 +257,9 @@ sup > a {
 }
 
 a {
-  font-family: Inter, sans-serif;
+  font-family: "Spectral SC", "Spectral", serif;
   font-size: 1em;
-  font-weight: 700;
+  font-weight: 300;
   text-decoration: none;
   transition: all 0.2s ease;
   color: var(--secondary);
@@ -254,14 +270,14 @@ a {
 }
 
 pre {
-  font-family: 'Fira Code';
+  font-family: 'Hack', monospace;
   padding: 0.75em;
   border-radius: 3px;
   overflow-x: scroll;
 }
 
 code {
-  font-family: 'Fira Code';
+  font-family: 'Hack', monospace;
   font-size: 0.85em;
   padding: 0.15em 0.3em;
   border-radius: 5px;
@@ -299,7 +315,7 @@ footer {
   text-align: center;
   & ul {
     padding-left: 0;
-  } 
+  }
 }
 
 hr {
@@ -313,11 +329,10 @@ hr {
 }
 
 .singlePage {
-  padding: 4em 30vw;
+  padding: 2rem 5vw;
 
-  @media all and (max-width: 1200px) {
-    padding: 25px 5vw;
-  }
+  max-width: 50rem;
+  margin: 0 auto;
 }
 
 .page-end {
