@@ -18,7 +18,8 @@ It's built on top of [Hugo](notes/Hugo), which is very fast, but can be hard to 
 
 **Footnotes**. Click the 1 to read it! [^1]
 
-> **Blockquotes** but
+> **Blockquotes** but they're not quite the same.<br />
+> For example, this is on a new line, but only because I manually added a `<br>`
 
 
 

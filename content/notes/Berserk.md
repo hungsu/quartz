@@ -12,7 +12,7 @@ The Deluxe Editions are physically enormous and expensive so I will consider car
 
 ## Other people's thoughts
 
-A fan-made group called Studio Taka made this absolutely outstanding motion comic of the first four chapters: [Berserk the Motion Comic](https://youtu.be/I5lLQza7Mew)
+A fan-made group called Studio Taka made absolutely outstanding motion comics of the first four chapters. They're extremely well voiced and in some ways are better to watch than the anime: [Berserk the Motion Comic](https://youtu.be/I5lLQza7Mew)
 
 Studio Taka also made some amazing [lore videos](https://www.youtube.com/watch?v=Bwyc11QghLo), with a lovely female narrator.
 
