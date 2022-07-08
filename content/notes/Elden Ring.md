@@ -10,7 +10,7 @@ Possibly my favourite [videogame](notes/videogame) of 2022. Also the first [[Sou
 
 By far my favourite part of this game is being able to talk about it with friends and colleagues of whom many are playing it.
 
-Second of all are the game's incredible visuals, which are often so beautiful it is worthwhile to simply explore. The elaborate and immense scale of the creatures and structures take much inspiration from [Berserk](notes/Berserk), which in turn is a hauntingly beautiful series with a [Bosch](notes/Hieronymus%20%Bosch)-ian art style. The game's art style is well captured in this dialog:
+Second of all are the game's incredible visuals, which are often so beautiful it is worthwhile to simply explore. The elaborate and immense scale of the creatures and structures take much inspiration from [Berserk](notes/Berserk), which in turn is a hauntingly beautiful series with a [Bosch](notes/Hieronymus%20Bosch)-ian art style. The game's art style is well captured in this dialog:
 
 > I remember when I was drawing the Undead Dragon, I submitted a design draft that depicted a dragon swarming with maggots and other gross things. Miyazaki handed it back to me saying "This isn't dignified. Don't rely on the gross factor to portray an undead dragon. Can't you instead try to convey the deep sorrow of a magnificent beast doomed to a slow and possibly endless descent into ruin?"
 > —Masanori Waragai
