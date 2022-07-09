@@ -6,7 +6,7 @@
   --lt-colours-gray: var(--outlinegray) !important;
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&family=Spectral+SC:wght@300&family=Spectral:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC&family=Playfair+Display:ital,wght@0,700;1,700&family=Spectral:ital,wght@0,300;0,700;1,300;1,700&display=swap');
 
 body {
   font-family: 'Spectral', serif;
@@ -177,7 +177,8 @@ td, th {
 .section {
   & h3 > a {
     font-weight: 700;
-    font-family: Inter;
+    font-family: "Spectral";
+    letter-spacing: 0;
     margin: 0;
   }
   & p {
@@ -192,9 +193,8 @@ article {
   }
 
   & a {
-    font-family: "Spectral SC";
+    font-family: "Alegreya SC", "Spectral";
     font-weight: 300;
-    font-variant: small-caps; // this shrinks the lower case a bit more. This is "wrong"
     letter-spacing: 0.025em;
 
     &.internal-link {
