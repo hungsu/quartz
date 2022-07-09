@@ -39,6 +39,16 @@ Blaidd voice actor Scott Arthur reads thirst tweets in a [4 minute video](https:
 
 ### Stuff I haven't tried or understand
 
+#### Merchandise
+
+
+![](https://c.neevacdn.net/image/fetch/s--FaHOKSN3--/https%3A//top-mmo.fr/wp-content/uploads/2022/05/fmini-the-raging-wolf-05b-1653511628832.jpg?savepath=fmini-the-raging-wolf-05b-1653511628832.jpg)
+
+There are two [[Figuarts Minis]] for Elden Ring: [Melina](https://www.tamashiinations.com/product/details.php?detail=832) and [Wolf](https://www.tamashiinations.com/product/details.php?detail=831). 
+
+Myself and many others are waiting for an official art book, but none have been announced at time of writing (2022-July-9)
+
+
 #### Glitches
 
 [[Spiffing Brit]] found that immortality is possible by dying on purpose to first boss in a [24 minute video](https://youtu.be/GwBc0ixfbzI)
