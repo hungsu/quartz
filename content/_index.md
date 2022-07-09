@@ -3,7 +3,7 @@ title: "🐨 Hung-Su's notes"
 ---
 ![[notes/images/Venice beach with ebike.jpg]]
 
-G'day! I'm Hung-Su and these are my notes 😀 They are of varying levels of quality, but they're all 100% written by me.
+G'day! I'm Hung-Su and these are my notes, in the form of a [digital garden](notes/Digital%20garden) 😀 They are of varying levels of quality, but they're all 100% written by me.
 
 I refer back to my own [advice](/tags/advice) at times, and I make some potentially controversial [claims](/tags/claim).
 
