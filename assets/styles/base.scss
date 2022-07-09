@@ -28,7 +28,9 @@ h1 {
 
 h2, h3, h4, h5, h6, thead {
   font-family: 'Spectral', serif;
+  font-variant-caps: normal;
   color: var(--dark);
+  letter-spacing: 0; // Sometimes headings are inside <a>
   font-weight: 700;
   margin: revert;
   padding: revert;
@@ -192,12 +194,10 @@ article {
   & a {
     font-family: "Spectral SC";
     font-weight: 300;
+    font-variant: small-caps; // this shrinks the lower case a bit more. This is "wrong"
+    letter-spacing: 0.025em;
 
     &.internal-link {
-      text-decoration: none;
-      padding: 0 0.1em;
-      margin: auto -0.1em;
-      border-radius: 3px;
 
       &.broken {
         opacity: 0.5;
