@@ -15,7 +15,7 @@ But digital gardens have a few differences:
 
 The term digital garden refers to the real world metaphor of gardening. Notes tend to begin as rough scrappy notes that need to be delicately tended to, like Seedlings. If you do not quickly refine your note into something more useful, you forget what it means and it dies, just like a seedling 🌱. As you tend to a note by writing in it, you form threads of thought, like branches, forming a tree 🌳. A robust tree, when re-read, can lead to you thinking of new ideas, or fruit 🍎. From these fruit you plant new seedlings, and the cycle continues.
 
-[[Anne-Laure Le Cunff]] wrote a better explanation [here](https://www.mentalnodes.com/a-gardening-guide-for-your-mind).
+[Maggie Appleton](notes/Maggie%20Appleton) wrote and illustrated a much better analogy of digital gardens here: [Growing the Evergreens](https://maggieappleton.com/evergreens)
 
 For more, I might suggest [my favourite blogs and digital gardens](My%20favourite%20blogs)
 
