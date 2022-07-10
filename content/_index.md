@@ -15,4 +15,7 @@ If none of that is appealing, you might want to just browse [all my notes](/note
 
 ## Blog, sort of
 
-2022-July-07: This version of my notes is live, using [Quartz](notes/Quartz%20by%20Jacky)! 
+### 2022
+July 9: I watched [Jurassic World: Dominion](notes/Jurassic_World_Dominion). It was reasonably fun, but I have thoughts.
+
+July 7: This version of my notes is live, using [Quartz](notes/Quartz%20by%20Jacky)! 
