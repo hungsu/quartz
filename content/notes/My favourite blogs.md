@@ -32,6 +32,14 @@ My personal notes are heavily inspired by the personal notes, blogs, and [digita
 
 [Moby Diction](https://www.mobydiction.ca/notes) by [[David Drysdale]] has a lot of interesting notes, particularly about story writing and [personal knowledge management](notes/PKM). You might like this one, about how [old ideas generate new ideas](https://www.mobydiction.ca/notes/Knowledge%20work%20means%20transforming%20old%20ideas%20into%20new%20ones/).
 
+
+
+
+[[Eleanor Konik]] https://publish.obsidian.md/eleanorkonik/00+Meta/03+Structure/Welcome
+
+
+## Other digital gardens I'll check out later
+
 [[Thompson Morrison]] and his [FedWiki](https://thompson.wiki.innovateoregon.org/view/welcome-visitors)
 
 https://publish.obsidian.md/christopher/%2BWelcome+to+my+note-in-use
@@ -45,8 +53,3 @@ https://philosopher.life/#Root:Root%20%5B%5BLegal%20Notice%5D%5D
 
 Made with Obsidian?
 http://gordonbrander.com/pattern/creatives-are-measured-by-what-they-create/
-
-
-[[Eleanor Konik]] https://publish.obsidian.md/eleanorkonik/00+Meta/03+Structure/Welcome
-
-[[Bianca Aguilar]]'s [digital garden](https://garden.bianca.digital/) made with Jekyll and Netlify
