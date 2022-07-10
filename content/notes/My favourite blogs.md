@@ -10,6 +10,7 @@ My personal notes are heavily inspired by the personal notes, blogs, and [digita
 - [Essays](https://www.gwern.net/index) by [[Gwern Branwen]] is a marvelous and unique part of the internet. Spectacularly well researched posts, that have taught me a lot about how impactful and different a well written blog post is than an atomic note, and many other things. Almost frustratingly, Gwern is almost never wrong about anything.
  - [The Garden](https://maggieappleton.com/garden) by [Maggie Appleton](notes/Maggie%20Appleton) is **beautiful** and *insightful*. Maggie herself is a UI designer and illustrator whose work you have likely seen before, and thus her site features gorgeous [typography](notes/typography) and charming illustrations throughout.
  - [Wonderful things](https://www.hanselman.com/blog/) by Scott Hanselman I have read for many years. He posts less frequently these days, but his content stays relevant for a long time. There are a small amount of ads and sponsorships throughout but they are easy to ignore.
+ - [Project Nayuki](https://www.nayuki.io/) by Nayuki is a blog that started in 2007 and is still updated with wonderfully insightful essays, mostly about computer science. The article I re-read most often is about [Tags not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies), but you might want to start with why they [don't like dividends](https://www.nayuki.io/page/i-dislike-dividends).
 
 ## Other people's notes I enjoyed browsing 
 
