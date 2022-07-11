@@ -1,8 +1,7 @@
 ---
 title: "Elden Ring"
 ---
-
-![](notes/images/EldenRing_Limgrave.jpg)
+![](https://c.neevacdn.net/image/fetch/s--dOUFa4O7--/https%3A//www.thathashtagshow.com/wp-content/uploads/2021/03/Elden-Ring-Cover-1024x512.jpg?savepath=Elden-Ring-Cover-1024x512.jpg)
 
 Possibly my favourite [videogame](notes/videogame) of 2022. Also the first [[Souls-like]] game I ever played. 
 
@@ -10,9 +9,11 @@ Possibly my favourite [videogame](notes/videogame) of 2022. Also the first [[Sou
 
 By far my favourite part of this game is being able to talk about it with friends and colleagues of whom many are playing it.
 
+![](notes/images/EldenRing_Limgrave.jpg)
+
 Second of all are the game's incredible visuals, which are often so beautiful it is worthwhile to simply explore. The elaborate and immense scale of the creatures and structures take much inspiration from [Berserk](notes/Berserk), which in turn is a hauntingly beautiful series with a [Bosch](notes/Hieronymus%20Bosch)-ian art style. The game's art style is well captured in this dialog:
 
-> I remember when I was drawing the Undead Dragon, I submitted a design draft that depicted a dragon swarming with maggots and other gross things. Miyazaki handed it back to me saying "This isn't dignified. Don't rely on the gross factor to portray an undead dragon. Can't you instead try to convey the deep sorrow of a magnificent beast doomed to a slow and possibly endless descent into ruin?"
+> I remember when I was drawing the Undead Dragon, I submitted a design draft that depicted a dragon swarming with maggots and other gross things. Miyazaki handed it back to me saying "This isn't dignified. Don't rely on the gross factor to portray an undead dragon. Can't you instead try to convey the deep sorrow of a magnificent beast doomed to a slow and possibly endless descent into ruin?"<br/>
 > —Masanori Waragai
 
 For more, this article is quite fantastic: [The Boschian Horror of ‘Elden Ring’](https://artreview.com/the-boschian-horror-of-elden-ring/)
@@ -21,7 +22,7 @@ The best [[Open world]] in a videogame in many years. The last few years of open
 
 ## Not so fun things
 
-So far, I don't care much for the game's story or its characters. I had extremely high expectations of the story, and could not tell you anything about it despite having 30 hours in the game.
+So far, I don't care much for the game's story or its characters. I had extremely high expectations of the story given its involvement with George R. R. Martin, and could not tell you anything about it despite having 40 hours in the game.
 
 The game balance is terrible. Enemy damage is too high, rune rewards often don't make sense. Videogamedunkey made a [video](https://youtu.be/D1H4o4FW-wA) about it.
 

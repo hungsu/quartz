@@ -26,19 +26,16 @@ My personal notes are heavily inspired by the personal notes, blogs, and [digita
 
 [Everything I know](https://wiki.nikitavoloboev.xyz/) by Nikita is **enormous** while remaining quite charming. Lots of emojis and links and pages. I recommend that you simply go there and explore, but if I had to pick one note it would be his note about [relationships](https://wiki.nikiv.dev/relationships/).
 
-[Alexis Rondeau's digital garden](https://publish.obsidian.md/alexisrondeau/) is made with Obsidian Publish and is rich in notes. He has an interesting note exploring whether [increased light improves mood](https://publish.obsidian.md/alexisrondeau/%E2%AD%90%EF%B8%8F+Happier+Through+Bright+Light+(Experiment)).
-
-[[Joel Hooks]]' [Digital garden](https://joelhooks.com/)
-
 [Moby Diction](https://www.mobydiction.ca/notes) by [[David Drysdale]] has a lot of interesting notes, particularly about story writing and [personal knowledge management](notes/PKM). You might like this one, about how [old ideas generate new ideas](https://www.mobydiction.ca/notes/Knowledge%20work%20means%20transforming%20old%20ideas%20into%20new%20ones/).
 
 [Tritarget](https://tritarget.org/) by Sukima has an enormous number of notes on UI engineering, particularly around [EmberJS](notes/EmberJS)
 
+[Notes](https://publish.obsidian.md/eleanorkonik/) by Eleanor Konik is a wealth of information on World Building and PKM. It's made using Obsidian Publish
 
-[[Eleanor Konik]] https://publish.obsidian.md/eleanorkonik/00+Meta/03+Structure/Welcome
-
+[Alexis Rondeau's digital garden](https://publish.obsidian.md/alexisrondeau/) is made with Obsidian Publish and is rich in notes. He has an interesting note exploring whether [increased light improves mood](https://publish.obsidian.md/alexisrondeau/%E2%AD%90%EF%B8%8F+Happier+Through+Bright+Light+(Experiment)).
 
 ## Other digital gardens I'll check out later
+[[Joel Hooks]]' [Digital garden](https://joelhooks.com/)
 
 [[Thompson Morrison]] and his [FedWiki](https://thompson.wiki.innovateoregon.org/view/welcome-visitors)
 
