@@ -32,7 +32,7 @@ My personal notes are heavily inspired by the personal notes, blogs, and [digita
 
 [Moby Diction](https://www.mobydiction.ca/notes) by [[David Drysdale]] has a lot of interesting notes, particularly about story writing and [personal knowledge management](notes/PKM). You might like this one, about how [old ideas generate new ideas](https://www.mobydiction.ca/notes/Knowledge%20work%20means%20transforming%20old%20ideas%20into%20new%20ones/).
 
-
+[Tritarget](https://tritarget.org/) by Sukima has an enormous number of notes on UI engineering, particularly around [EmberJS](notes/EmberJS)
 
 
 [[Eleanor Konik]] https://publish.obsidian.md/eleanorkonik/00+Meta/03+Structure/Welcome
