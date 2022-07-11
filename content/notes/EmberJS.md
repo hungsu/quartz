@@ -5,7 +5,7 @@ title: "EmberJS"
 
 A framework for making [Single page apps](notes/SPA). Popularised a [UI engineering](notes/UI%20engineering) technique called [data down, actions up](notes/Data_down_action_up).
 
-EmberJS was made in a highly opinionated way that favours convention over configuration, and learning these conventions is the most difficult part for UI engineers new to Ember. In particular, [Rock and roll with Ember](https://balinterdi.com/rock-and-roll-with-emberjs/) comments that Ember's Routing converntions are the hardest to learn.
+EmberJS was made in a highly opinionated way that favours convention over configuration, and learning these conventions is the most difficult part for UI engineers new to Ember. In particular, [Rock and roll with Ember](https://balinterdi.com/rock-and-roll-with-emberjs/) comments that Ember's Routing conventions are the hardest to learn.
 
 Official [website](https://emberjs.com/)
 
