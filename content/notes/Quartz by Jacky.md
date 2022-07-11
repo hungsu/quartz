@@ -6,13 +6,12 @@ A tool for publishing [Obsidian](notes/obsidian) to the web, and what I'm using 
 
 It's built on top of [Hugo](notes/Hugo), which is very fast, but can be hard to use. 
 
-- [Official website](http://quartz.jzhao.xyz/)
-- [Github](https://github.com/jackyzha0/quartz)
+The [Official website](http://quartz.jzhao.xyz/) has the instructions I followed to make this.
 
 ## Examples
 
+- Jacky, the creator of Quartz, published his [personal notes](https://jzhao.xyz/) with it.
 - Brandon Boswell's [digital garden](https://brandonkboswell.com/)
-- Jacky's [personal notes](https://jzhao.xyz/)
 
 ## Obsidian features it supports:
 
@@ -32,7 +31,7 @@ It's built on top of [Hugo](notes/Hugo), which is very fast, but can be hard to 
 **Callouts**. Typing `> [!quote]` won't make a fancy callout. You'll have to use a regular blockquote and add a symbol yourself. 
 
 ## Drawbacks
-- Significant technical knowledge needed. I had to install [[Golang]], Hugo, Make, add those to my environment path, just to build the website locally. For the tech savvy it doesn't feel like much, but this is too difficult for many people. 
-- No RSS. This isn't too big a deal as I don't have any readers now, but providing an RSS feed is a way to protest the overwhelming strength and evil of social media and corporate-funded news. 
+- Significant technical knowledge needed. I had to install [[Golang]], Hugo, Make, add those to my environment path, just to build the website on my Windows laptop. For the tech savvy it doesn't feel like much, but this is too difficult for many people. 
+- No RSS. This isn't too big a deal as I don't have any readers now, but providing an RSS feed is a way to protest the overwhelming strength and evil of social media and corporate-funded news. Jacky has teased the idea of possibly adding it in future, on the Quartz Discord.
 
 [^1]: This is a footnote! Click the curled arrow to go back up
