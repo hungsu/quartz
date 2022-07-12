@@ -10,7 +10,7 @@ We live in an age of Knowledge work rather than physical labour. If you are read
 
 - **Quick capture**. Thoughts, words, ideas, come by and disappear so quickly. The ability to capture the important ones is crucial. This means easy to use tools that are reliable and readily available.
 - **Resurfacing**. "I wrote that down somewhere but I can't find it" is the hallmark of a PKM that has failed. Notes must be organised in a way that facilitates rediscovery, without being a burden to maintain. You may be interested in how [my note organisation system](notes/My%20note%20organisation%20system) achieves this.
-- **Robustness**. Good notes should survive the rigour of real life. A power outage, a destroyed computer, a company bankrupting. This means [backups](notes/backup).
+- **Robustness**. Good notes should survive the rigour of real life. A power outage, a destroyed computer, a company bankrupting. This means making [backups that work](notes/backup).
 
 ## Similar things
 
