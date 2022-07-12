@@ -2,7 +2,7 @@
 title: "My favourite blogs and digital gardens"
 ---
 
-My personal notes are heavily inspired by the personal notes, blogs, and [digital gardens](notes/digital%20garden.md) of many others. 
+My personal notes are heavily inspired by the personal notes, blogs, and [digital gardens](notes/digital%20garden.md) of many others.
 
 ## The ones I love the most
 
@@ -12,7 +12,7 @@ My personal notes are heavily inspired by the personal notes, blogs, and [digita
  - [Wonderful things](https://www.hanselman.com/blog/) by Scott Hanselman I have read for many years. He posts less frequently these days, but his content stays relevant for a long time. There are a small amount of ads and sponsorships throughout but they are easy to ignore.
  - [Project Nayuki](https://www.nayuki.io/) by Nayuki is a blog that started in 2007 and is still updated with wonderfully insightful essays, mostly about computer science. The article I re-read most often is about [Tags not hierarchies](https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies), but you might want to start with why they [don't like dividends](https://www.nayuki.io/page/i-dislike-dividends).
 
-## Other people's notes I enjoyed browsing 
+## Other people's notes I enjoyed browsing
 
 [[Anne-Laure Le Cunff]]'s [Mental Nodes](https://www.mentalnodes.com/about)  has an especially nice note about how [creating makes you live longer](https://www.mentalnodes.com/living-beyond-your-expiration-date).
 
@@ -43,7 +43,7 @@ https://publish.obsidian.md/christopher/%2BWelcome+to+my+note-in-use
 
 Santi https://notes.santiyounger.com/ and https://publish.obsidian.md/santi/welcome
 
-https://grimoire.garden/notes/now/, made from Obsidian and [[EleventyJS]] 
+https://grimoire.garden, made from Obsidian and [[EleventyJS]]
 https://www.reddit.com/r/PKMS/comments/nrec6j/my_custom_note_site_created_using_eleventyjs_and/
 
 https://philosopher.life/#Root:Root%20%5B%5BLegal%20Notice%5D%5D

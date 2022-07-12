@@ -11,7 +11,7 @@ My oldest hobby is playing [videogame](notes/videogame)s, usually on a [computer
 
 I thoroughly enjoy note taking and [personal knowledge management](notes/PKM), using Obsidian and Logseq. I did a [Twitch stream](https://www.youtube.com/watch?v=jASsctBxZk4) about them once! 
 
-If none of that is appealing, you might want to just browse [all my notes](/notes).
+If none of that is appealing, you might want to just browse [all my notes](/notes), or press `Control` + `K` to search!
 
 ## Blog, sort of
 
