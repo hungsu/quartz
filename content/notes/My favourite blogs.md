@@ -35,6 +35,9 @@ My personal notes are heavily inspired by the personal notes, blogs, and [digita
 [Alexis Rondeau's digital garden](https://publish.obsidian.md/alexisrondeau/) is made with Obsidian Publish and is rich in notes. He has an interesting note exploring whether [increased light improves mood](https://publish.obsidian.md/alexisrondeau/%E2%AD%90%EF%B8%8F+Happier+Through+Bright+Light+(Experiment)).
 
 ## Other digital gardens I'll check out later
+
+Luke Rambling has a [labyrinth of digital gardens](https://lukerambling.de/gardens/) in his digital garden
+
 [[Joel Hooks]]' [Digital garden](https://joelhooks.com/)
 
 [[Thompson Morrison]] and his [FedWiki](https://thompson.wiki.innovateoregon.org/view/welcome-visitors)
