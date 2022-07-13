@@ -45,7 +45,6 @@ h2, h3, h4, h5, h6, thead {
 }
 
 .hanchor {
-  font-family: Inter;
   margin-left: -0.8em;
   opacity: 0.3;
   transition: opacity 0.3s ease;
@@ -61,6 +60,10 @@ p, ul, text {
   padding: revert;
 }
 
+ul, ol {
+  padding: 0 0 0 1.1rem;
+}
+
 .mainTOC {
   background: var(--lightgray);
   border-radius: 5px;
@@ -69,7 +72,6 @@ p, ul, text {
 
 .mainTOC details summary {
   cursor: zoom-in;
-  font-family: Inter;
   color: var(--dark);
   font-weight: 700;
 }
@@ -457,7 +459,7 @@ header {
     & > input {
       box-sizing: border-box;
       padding: 0.5em 1em;
-      font-family: Inter, sans-serif;
+      font-family: spectral, sans-serif;
       color: var(--dark);
       font-size: 1.1em;
       border: 1px solid var(--outlinegray);
