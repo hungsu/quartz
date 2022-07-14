@@ -26,8 +26,6 @@ My personal notes are heavily inspired by the personal notes, blogs, and [digita
 
 [Everything I know](https://wiki.nikitavoloboev.xyz/) by Nikita is **enormous** while remaining quite charming. Lots of emojis and links and pages. I recommend that you simply go there and explore, but if I had to pick one note it would be his note about [relationships](https://wiki.nikiv.dev/relationships/).
 
-[Moby Diction](https://www.mobydiction.ca/notes) by [[David Drysdale]] has a lot of interesting notes, particularly about story writing and [personal knowledge management](notes/PKM). You might like this one, about how [old ideas generate new ideas](https://www.mobydiction.ca/notes/Knowledge%20work%20means%20transforming%20old%20ideas%20into%20new%20ones/).
-
 [Tritarget](https://tritarget.org/) by Sukima has an enormous number of notes on UI engineering, particularly around [EmberJS](notes/EmberJS)
 
 [Notes](https://publish.obsidian.md/eleanorkonik/) by Eleanor Konik is a wealth of information on World Building and PKM. It's made using Obsidian Publish
@@ -42,14 +40,9 @@ Luke Rambling has a [labyrinth of digital gardens](https://lukerambling.de/garde
 
 [[Thompson Morrison]] and his [FedWiki](https://thompson.wiki.innovateoregon.org/view/welcome-visitors)
 
-https://publish.obsidian.md/christopher/%2BWelcome+to+my+note-in-use
+https://publish.obsidian.md/christopher/
 
 Santi https://notes.santiyounger.com/ and https://publish.obsidian.md/santi/welcome
 
 https://grimoire.garden, made from Obsidian and [[EleventyJS]]
 https://www.reddit.com/r/PKMS/comments/nrec6j/my_custom_note_site_created_using_eleventyjs_and/
-
-https://philosopher.life/#Root:Root%20%5B%5BLegal%20Notice%5D%5D
-
-Made with Obsidian?
-http://gordonbrander.com/pattern/creatives-are-measured-by-what-they-create/

@@ -12,6 +12,8 @@ The Deluxe Editions are physically enormous and expensive so I will consider car
 
 ## Other people's thoughts
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I5lLQza7Mew?clip=Ugkx8W23pcST9yzjgnBNJ6veC5PLt2zNzM57&amp;clipt=EKTNAxipyAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 A fan-made group called Studio Taka made absolutely outstanding motion comics of the first four chapters. They're extremely well voiced and in some ways are better to watch than the anime: [Berserk the Motion Comic](https://youtu.be/I5lLQza7Mew)
 
 Studio Taka also made some amazing [lore videos](https://www.youtube.com/watch?v=Bwyc11QghLo), with a lovely female narrator.
