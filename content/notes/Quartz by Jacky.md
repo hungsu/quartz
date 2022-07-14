@@ -4,9 +4,9 @@ title: "Quartz"
 
 A tool for publishing [Obsidian](notes/obsidian) to the web, and what I'm using for this note you're reading now!
 
-It's built on top of [Hugo](notes/Hugo), which is very fast, but can be hard to use. 
+It's built on top of [Hugo](notes/Hugo), which I'm told is very fast, but can be hard to use. So far I've observed builds with this tool taking around 40 seconds which is a bit slower than I'd like. My previous tool used Jekyll and took around 20 seconds.
 
-The [Official website](http://quartz.jzhao.xyz/) has the instructions I followed to make this.
+The [Official Quartz website](http://quartz.jzhao.xyz/) has the instructions I followed to make this.
 
 ## Examples
 
@@ -24,9 +24,11 @@ The [Official website](http://quartz.jzhao.xyz/) has the instructions I followed
 
 ## Obsidian features it does not:
 
-**Generic wikilinks**. Obsidian allows you to refer to a note without mentioning its path, such as `[[software engineering]]`. Quartz requires you to use Markdown links `[]()`, with a full path and URL encoding of spaces. Attempting to use wikilinks anyway seems to break links and backlinks. 
+Inline tags, like #claim. This will just appear as plain text.
 
-**Comments**. `%% Typing something like this will appear in the published notes %%`
+**Generic wikilinks**. Obsidian allows you to refer to a note without mentioning its path, such as `[[software engineering]]`. Quartz requires you to use Markdown links `[]()`, with a full path and URL encoding of spaces. Attempting to use wikilinks anyway will result in broken links and backlinks.
+
+**Comments**. `%% Typing something like this will appear in the published notes as plain text %%`
 
 **Callouts**. Typing `> [!quote]` won't make a fancy callout. You'll have to use a regular blockquote and add a symbol yourself. 
 
