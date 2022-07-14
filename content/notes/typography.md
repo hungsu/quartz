@@ -12,3 +12,4 @@ More to come, until then I recommend two resources:
 
 - Matthew Butterick's [Practical Typography](https://practicaltypography.com/)
 - Typewolf's [guides](https://www.typewolf.com/guides)
+- Donny Truong's [Pro Web Type](https://prowebtype.com/)
