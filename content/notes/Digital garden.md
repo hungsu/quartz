@@ -14,13 +14,13 @@ A digital garden is very similar to a blog.
 
 But digital gardens have a few differences:
 
-- All notes are permanently a work in progress. Blogs prefer the philosophy of keeping a post exactly the same after it is published, and if it is changed, a very prominent addendum should be added. Digital gardens don't bother.
-- Organised with Links. Blogs tend to have a chronological view, emphasizing things that have been posted recently. Often a blog will also have sections or categories of posts. A digital garden favours Links from one post to another as a way to get around. Some even have [backlinks](notes/backlink.md).
-- No ads. Digital gardens almost never have ads or sponsorships, and never bother with SEO. 
+- **Always growing**. All notes are permanently a work in progress. Blogs prefer the philosophy of keeping a post exactly the same after it is published, and if it is changed, a very prominent addendum should be added. Digital gardens don't bother with this limitation, and relish making changes at the whim of the author. A signature of digital gardens of the 90s was [Under Construction GIFs](http://textfiles.com/underconstruction/).
+- **Link first organisation**. Blogs almost always to have a chronological timeline view, with recent posts at the top. A digital garden often has no such timeline, favouring Links from one post to another as a way to get around. Some even have [backlinks](notes/backlink.md).
+- **No ads**. Digital gardens almost never have ads or sponsorships, and never bother with SEO. 
 
 ## Etymology of the Analogy
 
-Digital gardens were greatly motivated by the observation that simple handwritten notes tend to *rot*. Some time after they are written, the author may lose them entirely, or is unable to remember what the note means.
+Digital gardens were greatly motivated by the observation that simple handwritten notes tend to *rot*. Some time after they are written, the author may lose them entirely, or forget what the note means.
 
 By contrast, a digital gardener prevents notes from rotting by treating their notes like a living thing. 
 - Notes tend to begin as rough scrappy notes that need to be delicately tended to, like Seedlings. If you do not quickly refine your note into something more useful, you forget what it means and it dies, just like a seedling 🌱.
