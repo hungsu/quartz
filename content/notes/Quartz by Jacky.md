@@ -24,13 +24,13 @@ The [Official Quartz website](http://quartz.jzhao.xyz/) has the instructions I f
 
 ## Obsidian features it does not:
 
-Inline tags, like #claim. This will just appear as plain text.
+Inline tags, like #claim. This will just appear as plain text. I requested support for these in [this ticket](https://github.com/jackyzha0/quartz/issues/161).
 
 **Generic wikilinks**. Obsidian allows you to refer to a note without mentioning its path, such as `[[software engineering]]`. Quartz requires you to use Markdown links `[]()`, with a full path and URL encoding of spaces. Attempting to use wikilinks anyway will result in broken links and backlinks.
 
 **Comments**. `%% Typing something like this will appear in the published notes as plain text %%`
 
-**Callouts**. Typing `> [!quote]` won't make a fancy callout. You'll have to use a regular blockquote and add a symbol yourself. 
+**Callouts**. Typing `> [!quote]` won't make a fancy callout. You'll have to use a regular blockquote and add a symbol yourself. Someone has already requested support for these in [this ticket](https://github.com/jackyzha0/quartz/issues/80).
 
 ## Drawbacks
 - Significant technical knowledge needed. I had to install [[Golang]], Hugo, Make, add those to my environment path, just to build the website on my Windows laptop. For the tech savvy it doesn't feel like much, but this is too difficult for many people. 
