@@ -9,7 +9,7 @@ I refer back to my own [advice](/tags/advice) at times, and I make some potentia
 
 My oldest hobby is playing [videogame](notes/videogame)s, usually on a [computer](notes/computer), and I'm currently playing [Elden Ring](notes/Elden%20Ring). My life playing games is directly responsible for my present day career in [software engineering](notes/software%20engineering).
 
-I thoroughly enjoy note taking and [personal knowledge management](notes/PKM), using Obsidian and Logseq. I did a [Twitch stream](https://www.youtube.com/watch?v=jASsctBxZk4) about them once! 
+I thoroughly enjoy note taking and [personal knowledge management](notes/PKM), using Obsidian and Logseq. I did a [Twitch stream](https://www.youtube.com/watch?v=jASsctBxZk4) about them once!
 
 If none of that is appealing, you might want to just browse [all my notes](/notes), or press `Control` + `K` to search!
 
@@ -18,4 +18,4 @@ If none of that is appealing, you might want to just browse [all my notes](/note
 ### 2022
 July 9: I watched [Jurassic World: Dominion](notes/Jurassic_World_Dominion). It was reasonably fun, but I have thoughts.
 
-July 7: This version of my notes is live, using [Quartz](notes/Quartz%20by%20Jacky)! 
+July 7: This version of my notes is live, using [Quartz](notes/Quartz%20by%20Jacky)!
