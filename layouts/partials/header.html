@@ -1,10 +1,10 @@
 <header>
     <h1 id="page-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Data.config.page_title }}</a></h1>
     <div class="spacer"></div>
-    <div id="search-icon">
-      <p>Search</p>
-      <svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title">Click to open search</title><desc id="desc">Icon to open search</desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
-    </div>
+    <button id="search-icon">
+      <span class="sr-only">Search</span>
+      <!-- SVG's title and desc intentionally left blank because they are spoken by screen reader. The text in the button is enough. -->
+      <svg tabindex="0" aria-labelledby="title desc" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title id="title"></title><desc id="desc"></desc><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"/><circle cx="8" cy="8" r="7"/></g></svg>
+    </button>
     {{partial "darkmode.html" .}}
 </header>
-
