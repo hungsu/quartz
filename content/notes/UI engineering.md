@@ -18,6 +18,7 @@ In addition to skills common to all software engineers, UI engineers should know
 
 - HTTP protocol
 - [[URL]]s
+- Cookies, particularly in the context of [[GDPR]]
 - [[Image file formats]]
 - [[SVG]]
 

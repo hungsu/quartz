@@ -1,5 +1,5 @@
 ---
-title: "🐨 Hung-Su's notes"
+title: "Hung-Su's notes"
 ---
 ![[notes/images/Venice beach with ebike.jpg]]
 
