@@ -8,11 +8,6 @@ It's built on top of [Hugo](notes/Hugo), which I'm told is very fast, but can be
 
 The [Official Quartz website](http://quartz.jzhao.xyz/) has the instructions I followed to make this.
 
-## Examples
-
-- Jacky, the creator of Quartz, published his [personal notes](https://jzhao.xyz/) with it.
-- Brandon Boswell's [digital garden](https://brandonkboswell.com/)
-
 ## Obsidian features it supports:
 
 **Footnotes**. Click the 1 to read it! [^1]
@@ -35,5 +30,10 @@ Inline tags, like #claim. This will just appear as plain text. I requested suppo
 ## Drawbacks
 - Significant technical knowledge needed. I had to install [[Golang]], Hugo, Make, add those to my environment path, just to build the website on my Windows laptop. For the tech savvy it doesn't feel like much, but this is too difficult for many people. 
 - No RSS. This isn't too big a deal as I don't have any readers now, but providing an RSS feed is a way to protest the overwhelming strength and evil of social media and corporate-funded news. Jacky has teased the idea of possibly adding it in future, on the Quartz Discord.
+
+## Alternatives
+
+- [[Obsidian Publish]], but people seem to have mixed things to say about it.
+- [Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). These notes you're reading used to be published this way. There are other ways to use Jekyll, but the method I linked seems to be the most comprehensive.
 
 [^1]: This is a footnote! Click the curled arrow to go back up
