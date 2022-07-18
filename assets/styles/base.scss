@@ -205,13 +205,15 @@ blockquote {
 
 article {
   & > h1 {
-    margin-top: 2em;
-    font-size: 2em;
+    margin: 1em 0 0;
+    font-size: 3rem;
+    text-align: center;
   }
 
   & > .meta {
     margin: 0 0 1em 0;
     opacity: 0.7;
+    text-align: center;
   }
 
   & a {
@@ -337,7 +339,7 @@ hr {
 }
 
 .singlePage {
-  padding: 2rem 5vw;
+  padding: 0 5vw 2rem;
 
   max-width: 50rem;
   margin: 0 auto;
@@ -397,7 +399,7 @@ header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 1em 0 2em;
+  margin: 0;
 
   & > h1 {
     font-size: 2em;
