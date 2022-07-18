@@ -1,0 +1,12 @@
+---
+title: "Time timer"
+---
+![](https://m.media-amazon.com/images/I/711vrQPS8eL._SL1500_.jpg)
+
+A physical timer, which operates on a single [[AA battery]]. Twisting the center knob resizes the coloured portion, which immediately starts shrinking as time progresses. A switch on the back enables an optional buzzer when the time runs out.
+
+I first heard about this gadget from the Youtube channel [[How to ADHD]]. It's common for those  with [ADHD](notes/ADHD) to fidget, and also have trouble with [[Time management]]. Thus, a physical object with an easily understandable physical interface.
+
+My only minor complaint was that the first time I used it, I was not aware it was counting down. The coloured area shrinks so slowly i had to wait around a minute to be sure it was on. I've been very happy with it ever since.
+
+It frequently goes on sale on Amazon, and I bought mine for around $19.78USD including taxes. (Goodness US sales taxes feel deceptive 😠)
