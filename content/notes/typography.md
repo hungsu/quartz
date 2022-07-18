@@ -11,5 +11,5 @@ Is somewhat related to, but different from Penmanship and Calligraphy.
 More to come, until then I recommend these resources:
 
 - Matthew Butterick's [Practical Typography](https://practicaltypography.com/)
-- Typewolf's [guides](https://www.typewolf.com/guides)
+- Typewolf's [guides](https://www.typewolf.com/guides). If you have money, he has a $399USD [Typography Checklist](https://www.typewolf.com/checklist)  which I'm very tempted to buy.
 - Donny Truong's [Pro Web Type](https://prowebtype.com/)
