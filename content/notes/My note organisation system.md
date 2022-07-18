@@ -1,5 +1,5 @@
 ---
-title: "My organisation system"
+title: "My note organisation system"
 ---
 
 I believe fervently that a good PKM system needs the following:

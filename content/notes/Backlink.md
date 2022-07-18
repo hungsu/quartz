@@ -3,7 +3,7 @@ title: "Backlink"
 aliases: ['Pingback', 'Linked mention', 'Bi-directional link']
 ---
 
-A link that allows you to go visit sources that link to the file you are currently looking at.
+A link that allows you to go visit sources that link to the file you are currently looking at. This blog has a list of Backlinks at the bottom of every page.
 
 Called a *Linked Mention* by [[Obsidian]], similar to how social media notifies an account when it is Mentioned.
 

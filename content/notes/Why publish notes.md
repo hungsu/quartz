@@ -1,0 +1,29 @@
+---
+title: "Why publish notes?"
+aliases:
+- "Why blog" 
+---
+
+A few moments ago, my wife asked me "Why do you want to make a blog?" and my off the cuff answer was "Because I want to". But the reality is a lot bigger than that.
+
+First of all, there are some reasons not to so let's get those out of the way.
+
+## Why you shouldn't publish online
+
+- *Brutally unkind people*. A thoughtless comment can leave permanent imprints. Most of us have found ourselves dwelling on an unkind statement for days, weeks, or months afterward. For that reason there is no comments sections on this website. A person I respect disagrees, finding comments to be immensely valuable[^1], so I may change my mind later.
+- *Crime*. People have been known to use information from social media and blogs in creatively malicious ways. Photos of a holiday to indicate the person's home is vacant for burglarising, a selfie that reveals a person's location are all clues that have been used. I've taken care to omit information that could identify me from these notes wherever possible.
+- *Time*. I'm not sure how many hours I've spent setting this website up, customising it, and writing posts, but it is surely a lot and not something I'd ask anyone else to do.
+
+## Why you should anyway
+
+Even with those risks in place, I've found the benefits of publishing to far outweigh them:
+
+- **It sharpens writing**. Before I put things online, I let myself write complete unintelligible crap that even I sometimes could not understand. Now, I'm forced to really edit, revise, and polish my words. This improves my communication in writing, at work, with friends and loved ones and beyond.
+- **It sharpens thinking**. You may have heard of the [[Feynman Learning Technique]], which states that to understand something, you should be able to express it simply. Publishing notes forces me to do this.
+- **It's fulfilling in the long term**. Where activities like watching TV or playing a game often fulfil me only during the activity, writing is something I both enjoy doing and also enjoy reaping the rewards of afterward.
+- **The internet depends on it**. The following blog post expresses it better than I can:
+ 
+> **You are not blogging enough.** You are pouring your words into increasingly closed and often walled gardens. You are giving control - and sometimes ownership - of your content to social media companies that will SURELY fail. These companies are [profoundly overvalued](http://www.bloomberg.com/news/2012-05-11/facebook-ipo-overvalued-at-96-billion-in-global-investors-poll.html), [don't care about permalinks](https://www.hanselman.com/blog/GooglePlusOffersASophiesChoiceToEarlyAdoptersOfGoogleAppsViaAnIncompleteTakeoutMigrationTool.aspx), [don't make your content portable](https://www.hanselman.com/blog/GooglePlusOffersASophiesChoiceToEarlyAdoptersOfGoogleAppsViaAnIncompleteTakeoutMigrationTool.aspx), and have [terms of service that are so complex and obtuse that there are entire websites dedicate to explaining them](http://tos-dr.info/).<br/>
+> —[[Scott Hanselman]] on [2012-August-19](https://www.hanselman.com/blog/your-words-are-wasted?ref=refind)
+
+[^1]: [So you're thinking about writing on the internet](https://dynomight.net/internet-writing/)
