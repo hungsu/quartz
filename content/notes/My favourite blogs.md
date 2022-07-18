@@ -42,8 +42,3 @@ Luke Rambling has a [labyrinth of digital gardens](https://lukerambling.de/garde
 [[Thompson Morrison]] and his [FedWiki](https://thompson.wiki.innovateoregon.org/view/welcome-visitors)
 
 https://publish.obsidian.md/christopher/
-
-Santi https://notes.santiyounger.com/ and https://publish.obsidian.md/santi/welcome
-
-https://grimoire.garden, made from Obsidian and [[EleventyJS]]
-https://www.reddit.com/r/PKMS/comments/nrec6j/my_custom_note_site_created_using_eleventyjs_and/
