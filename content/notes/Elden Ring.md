@@ -20,9 +20,11 @@ For more, this article is quite fantastic: [The Boschian Horror of ‘Elden Ring
 
 The best [[Open world]] in a videogame in many years. The last few years of open world games have been full of excessive handholding and on screen guides that throttle the player's desire to explore. Elden Ring has almost no guides and both forces and encourages the player to explore. I haven't felt quite so adventurous since I played Morrowind. Writing on games made a 10 minute video talking more: [Why Exploring in Elden Ring Feels So Good](https://youtu.be/qJy8j64pTV4) 
 
+The visuals of the world and its people are all tied together with some incredible lore and worldbuilding. This [Gamespot article](https://www.gamespot.com/articles/elden-ring-heres-the-lore-and-history-of-the-lands-between/1100-6502537/) explains it better. If you have the time, the Elden ring lore videos by [Vaatividya](https://www.youtube.com/watch?v=DYDs_Inzkz4) are so amazing they were reposted on Elden Ring's official channel.
+
 ## Not so fun things
 
-So far, I don't care much for the game's story or its characters. I had extremely high expectations of the story given its involvement with George R. R. Martin, and could not tell you anything about it despite having 40 hours in the game.
+Despite the lore, the game's story or its characters have been entirely forgettable for me. I had extremely high expectations of the story given its involvement with George R. R. Martin, and could not tell you anything about it despite having 40 hours in the game.
 
 The game balance is terrible. Enemy damage is too high, rune rewards often don't make sense. Videogamedunkey made a [video](https://youtu.be/D1H4o4FW-wA) about it.
 
@@ -74,3 +76,4 @@ Parrying is easier with the *buckler*  than any other shield, because it has the
 Stagger, and Critical hit. Stagger your enemies by inflicting Poise damage which causes a glowing golden body part to appear. Critical hit by walking up to the that golden body part and pressing R1.
 
 Jumping causes the lower half of your body to become invincible for 25 out of 30 frames. Since it's just the lower half, overhead attacks still hurt you. Zullie the witch explains in this [video](https://youtu.be/8zdbqTHtnr4). Equipment weight also has no effect on jumping, unlike dodging. 
+
