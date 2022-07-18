@@ -13,12 +13,12 @@ I thoroughly enjoy note taking and [personal knowledge management](notes/PKM), u
 
 If none of that is appealing, you might want to just browse [all my notes](/notes), or press `Control` + `K` to search!
 
-This site doesn't use ads, cookies, or analytics and never will. I'm privacy first. 
+This site doesn't use ads, cookies, or analytics and never will. I'm privacy first.
 
 ## Blog, sort of
 
 ### 2022
-July 17: My first [Time timer](notes/Time timer) arrived!
+July 17: My first [Time timer](notes/Time%20timer) arrived!
 
 July 9: I watched [Jurassic World: Dominion](notes/Jurassic_World_Dominion). It was reasonably fun, but I have thoughts.
 
