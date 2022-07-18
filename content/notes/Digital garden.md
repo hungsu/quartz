@@ -35,6 +35,6 @@ The earliest occurrence of the term "garden" for online notes may be this 1998 e
 
 My digital garden is made using Obsidian and [Quartz](notes/Quartz%20by%20Jacky).
 
-For more, I might suggest [my favourite blogs and digital gardens](My%20favourite%20blogs).
+For more, I might suggest [my favourite blogs and digital gardens](notes/My%20favourite%20blogs).
 
 [Maggie Appleton](notes/Maggie%20Appleton) wrote a phenomenal essay on the topic: [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history).
