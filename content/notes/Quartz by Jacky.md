@@ -27,9 +27,14 @@ Inline tags, like #claim. This will just appear as plain text. I requested suppo
 
 **Callouts**. Typing `> [!quote]` won't make a fancy callout. You'll have to use a regular blockquote and add a symbol yourself. Someone has already requested support for these in [this ticket](https://github.com/jackyzha0/quartz/issues/80).
 
-## Drawbacks
+
+## Other drawbacks
 - Significant technical knowledge needed. I had to install [[Golang]], Hugo, Make, add those to my environment path, just to build the website on my Windows laptop. For the tech savvy it doesn't feel like much, but this is too difficult for many people. 
 - No RSS. This isn't too big a deal as I don't have any readers now, but providing an RSS feed is a way to protest the overwhelming strength and evil of social media and corporate-funded news. Jacky has teased the idea of possibly adding it in future, on the Quartz Discord.
+- Poor [[Accessibility]] for screen readers. This comes in a few forms:
+	- The search button is not a button. This is fixed in these notes, but still a problem in the original source.
+	- No alt text on images. Markdown supports adding some text to an image like so: `![Some alt text](link\to\image.jpg)`. But either Quartz or Hugo ignores it.
+	- I may work on some of these issues myself.
 
 ## Perks, or why I chose Quartz over everything else
 
