@@ -18,6 +18,8 @@ This site doesn't use ads, cookies, or analytics and never will. I'm privacy fir
 ## Blog, sort of
 
 ### 2022
+July 22: My [6700 XT](notes/6700XT) arrived, and I watched [Thor: Love and Thunder](notes/Thor%20Love%20and%20Thunder)
+
 July 17: My first [Time timer](notes/Time%20timer) arrived!
 
 July 9: I watched [Jurassic World: Dominion](notes/Jurassic_World_Dominion). It was reasonably fun, but I have thoughts.

@@ -33,7 +33,7 @@ The earliest occurrence of the term "garden" for online notes may be this 1998 e
 
 ## More reading
 
-My digital garden is made using Obsidian and [Quartz](notes/Quartz%20by%20Jacky).
+My digital garden is made using Obsidian and [Quartz](notes/Quartz%20by%20Jacky). I previously used something called Foam Research, then Jekyll. Next, I'm considering something called [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)
 
 For more, I might suggest [my favourite blogs and digital gardens](notes/My%20favourite%20blogs).
 
