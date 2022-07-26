@@ -4,9 +4,9 @@ aliases:
 - "Why blog" 
 ---
 
-A few moments ago, my wife asked me "Why do you want to make a blog?" and my off the cuff answer was "Because I want to". But the reality is a lot bigger than that.
+A few moments ago, my wife asked me "Why do you want to make a [blog](notes/Digital%20garden)?" and my off the cuff answer was "Because I want to". But the reality is a lot bigger than that.
 
-First of all, there are some reasons not to so let's get those out of the way.
+First of all, there are some reasons not to, so let's get those out of the way.
 
 ## Why you shouldn't publish online
 
