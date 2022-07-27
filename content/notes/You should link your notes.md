@@ -28,7 +28,11 @@ This increased quality of writing has directly contributed to my professional su
 
 ## It makes writing fun again
 
+<iframe src="https://giphy.com/embed/Ulkzt8qd4nGHRI9DdV" width="480" height="440" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 Someone described my writing app of choice, [[Obsidian]], as like *playing your mind like a videogame*. I have found this to be true. The activity of just creating links between documents I've written is incredibly satisfying, even without the visceral visuals and sound effects of a videogame. Creating a working link that clicks through to valuable content on the other side has no equal. 
+
+Additionally, it allows exploring my writing through a bouncy graph visualisation, which is a far more fun way to explore.
 
 ## It improves my conversational ability
 
