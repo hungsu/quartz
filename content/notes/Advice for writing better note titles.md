@@ -1,12 +1,12 @@
 ---
 title: "Advice for writing better note titles"
 aliases: []
-tags: 
+tags:
 - 🌲
 - advice
 ---
 
-Given a page within a [PKM](notes/PKM) system, how do we write a good and useful title for it? 
+Given a page within a [PKM](notes/PKM) system, how do we write a good and useful title for it?
 
 Qualities we want:
 
@@ -17,8 +17,6 @@ Qualities we want:
 It's worth being aware that the goals and process for writing titles for Notes have very little resemblance to writing [[Headline]]s for Stories, Titles for Blog Posts, or Subject Lines for Emails. It in some ways resembles writing titles for [[Essay]]s.
 
 ## Guidelines (not rules)
-
-**Write the document**. Titles tend to emerge from the document as it is written. You may realise on writing the body, you cannot deliver on the promise of your original title. Changing the title then becomes obvious. You may also realise on writing the title, that no single title can encapsulate all you have written. This is a good indicator that your note should be broken apart into atomic notes.
 
 **Write in assertive positive form**. “X causes Y” is usually better than “X fails to do Z”. For example:
 
@@ -35,6 +33,10 @@ In writing this way you may also learn to be more assertive and sure of yourself
 > ⚠ Be wary of question marks in filenames. You may have to omit them.
 
 **Use consistent and correct spelling**. I have been tempted many times to ignore spelling errors, but this will bite you in future when you attempt to use the search feature in your notes. Take the time to use a spellchecker and fix errors. For the same reason, you should use only a single region's spelling. Don't mix American and Australian English.
+
+**Link to the note**. By considering how another note is related to the current note, this puts you in a mindset to consider a usable title. In general, [you should link your notes](notes/You%20should%20link%20your%20notes) anyway!
+
+**Write the document**. Titles tend to emerge from the document as it is written. You may realise on writing the body, you cannot deliver on the promise of your original title. Changing the title then becomes obvious. You may also realise on writing the title, that no single title can encapsulate all you have written. This is a good indicator that your note should be broken apart into atomic notes.
 
 **Consider characters you can't type**. I am unable to easily type  *“Gonçalo”*. So my note for such a person has an alias *“Goncalo”*.
 
