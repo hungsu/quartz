@@ -18,6 +18,8 @@ This site doesn't use ads, cookies, or analytics and never will. I'm privacy fir
 ## Blog, sort of
 
 ### 2022
+July 27: I was alarmed by a comment on Hacker News of a person who didn't see the point of linking their notes. So I started writing some reasons why [you should link your notes](notes/You%20should%20link%20your%20notes).
+
 July 22: My [6700 XT](notes/6700XT) arrived, and I watched [Thor: Love and Thunder](notes/Thor%20Love%20and%20Thunder)
 
 July 17: My first [Time timer](notes/Time%20timer) arrived!
