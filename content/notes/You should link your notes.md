@@ -32,9 +32,16 @@ This increased quality of writing has directly contributed to my professional su
 
 Someone described my writing app of choice, [[Obsidian]], as like *playing your mind like a videogame*. I have found this to be true. The activity of just creating links between documents I've written is incredibly satisfying, even without the visceral visuals and sound effects of a videogame. Creating a working link that clicks through to valuable content on the other side has no equal. 
 
-Additionally, it allows exploring my writing through a bouncy graph visualisation, which is a far more fun way to explore.
+Additionally, it allows exploring my writing through a bouncy graph visualisation, which is so much more fun than plain text.
 
 ## It improves my conversational ability
 
 Many of us have had the feeling of thinking of the perfect punchline long after the conversation has ended. The French call this [going down the stairs](https://en.wikipedia.org/wiki/L%27esprit_de_l%27escalier). I theorise that this act of connecting one thought to another too slowly can be remedied if you practice linking your thoughts together, in the form of linking notes together. Some argue that this is done better with spaced repetition, but I feel that is too rigid. Space repetition is one prompt, one answer. In contrast, linking many notes to many other notes allows much more freedom, which is essential for flowing conversation.
 
+## The illusion of superhuman memory
+
+In my [[Daily Note|Journal]], I would write about the daily goings on, and in each snippet I would link to things. That could be something totally mundane, like:
+
+> [[Mr Smith]] helped [[Mr White]] with the  [[Deployment]] of [[Our secret app]].
+
+I have written thousands of these little notes, as they happen. Later, when asked about what a person had done, I could use these links to remember what had happened, even better than that person could themselves. This gives the impression of truly superhuman memory, memory that can't be reproduced by a flesh brain. 
