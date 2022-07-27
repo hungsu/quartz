@@ -1,5 +1,5 @@
 ---
-title: "Why you should link your notes"
+title: "You should link your notes"
 tags:
 - 🌱
 - claim
