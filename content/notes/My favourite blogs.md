@@ -30,6 +30,8 @@ My personal notes are heavily inspired by the personal notes, blogs, and [digita
 
 [Tritarget](https://tritarget.org/) by Sukima has an enormous number of notes on UI engineering, particularly around [EmberJS](notes/EmberJS)
 
+Julia Evan's [blog](https://jvns.ca/) about is phenomenal, particularly for computer science. You might want to look at [Celebrate tiny milestones](https://jvns.ca/blog/2022/03/13/celebrate-tiny-learning-milestones/) to start, and [Things that used to be hard that are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/).
+
 [Notes](https://publish.obsidian.md/eleanorkonik/) by Eleanor Konik is a wealth of information on World Building and PKM. It's made using Obsidian Publish
 
 [Alexis Rondeau's digital garden](https://publish.obsidian.md/alexisrondeau/) is made with Obsidian Publish and is rich in notes. He has an interesting note exploring whether [increased light improves mood](https://publish.obsidian.md/alexisrondeau/%E2%AD%90%EF%B8%8F+Happier+Through+Bright+Light+(Experiment)).
