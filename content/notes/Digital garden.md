@@ -16,7 +16,7 @@ But digital gardens have a few differences:
 
 - **Always growing**. All notes are permanently a work in progress. Blogs prefer the philosophy of keeping a post exactly the same after it is published, and if it is changed, a very prominent addendum should be added. Digital gardens don't bother with this limitation, and relish making changes at the whim of the author. A signature of digital gardens of the 90s was [Under Construction GIFs](http://textfiles.com/underconstruction/).
 - **Link first organisation**. Blogs almost always to have a chronological timeline view, with recent posts at the top. A digital garden often has no such timeline, favouring Links from one post to another as a way to get around. Some even have [backlinks](notes/Backlink.md).
-- **No ads**. Digital gardens almost never have ads or sponsorships, and never bother with SEO. 
+- **No ads or upsells**. Blogs frequently have ads, or are written so the author can sell you another product. Digital gardens almost never have ads or sponsorships, and never bother with SEO. 
 
 ## Etymology of the Analogy
 
