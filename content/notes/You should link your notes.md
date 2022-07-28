@@ -36,7 +36,7 @@ Additionally, it allows exploring my writing through a bouncy graph visualisatio
 
 ## My conversations flow better
 
-Many of us have had the feeling of thinking of the perfect punchline long after the conversation has ended. The French call this [going down the stairs](https://en.wikipedia.org/wiki/L%27esprit_de_l%27escalier). I theorise that this act of connecting one thought to another too slowly can be remedied if you practice linking your thoughts together, in the form of linking notes together. Some argue that this is done better with spaced repetition, but I feel that is too rigid. Space repetition is one prompt, one answer. In contrast, linking many notes to many other notes allows much more freedom, which is essential for flowing conversation.
+Many of us have had the feeling of thinking of the perfect punchline long after the conversation has ended. The French call this [going down the stairs](https://en.wikipedia.org/wiki/L%27esprit_de_l%27escalier). I theorise that if you're too slow in conversation, you can become faster if you do reps of linking your thoughts together, in the form of linking notes together. Some argue that this is done better with spaced repetition, with flash cards prompting one reply, but I feel that is too rigid. In contrast, linking many notes to many other notes allows much more freedom, which is essential for flowing and unstructured conversation.
 
 ## Links in journals give the illusion of superhuman memory
 
