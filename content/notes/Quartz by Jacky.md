@@ -12,10 +12,13 @@ The [Official Quartz website](http://quartz.jzhao.xyz/) has the instructions I f
 
 **Footnotes**. Click the 1 to read it! [^1]
 
-> **Blockquotes** but they're not quite the same.<br />
-> For example, this is on a new line, but only because I manually added a `<br>`
+> **Blockquotes!**
+> 
+> Just be aware they behave slightly differently from Obsidian. You may want to manually add line breaks with `<br>`
 
-
+> [!warning] Callouts
+> 
+> Support was added on 2022 July 30
 
 ## Obsidian features it does not:
 
@@ -24,9 +27,6 @@ Inline tags, like #claim. This will just appear as plain text. I requested suppo
 **Generic wikilinks**. Obsidian allows you to refer to a note without mentioning its path, such as `[[software engineering]]`. Quartz requires you to use Markdown links `[]()`, with a full path and URL encoding of spaces. Attempting to use wikilinks anyway will result in broken links and backlinks.
 
 **Comments**. `%% Typing something like this will appear in the published notes as plain text %%`
-
-**Callouts**. Typing `> [!quote]` won't make a fancy callout. You'll have to use a regular blockquote and add a symbol yourself. Someone has already requested support for these in [this ticket](https://github.com/jackyzha0/quartz/issues/80).
-
 
 ## Other drawbacks
 - Significant technical knowledge needed. I had to install [[Golang]], Hugo, Make, add those to my environment path, just to build the website on my Windows laptop. For the tech savvy it doesn't feel like much, but this is too difficult for many people. 
