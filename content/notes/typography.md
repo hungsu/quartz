@@ -6,7 +6,7 @@ The art of arranging type to make written language legible and beautiful. Made u
 
 - [[Font selection]], particularly how to choose readable fonts for body and titles.
 - [[Typesetting]], including font size, leading, and line length.
-- [[Punctuation]], particularly how to avoid ugly approximations.
+- [Punctuation](notes/Punctuation), particularly how to avoid ugly approximations.
 
 Typography is improved greatly with [[Colour selection for UI]].
 
