@@ -30,7 +30,9 @@ In writing this way you may also learn to be more assertive and sure of yourself
 - Bad: *Privilege is inherited*
 - Good: *How much ability is heritable?*
 
-> ⚠ Be wary of question marks in filenames. You may have to omit them.
+> [!WARNING] Attention Windows users
+> 
+> If you are on Windows, you cannot have question marks in filenames. You'll have to infer that a file is a question, and perhaps rely on `title:` attributes if you are using Obsidian or Logseq.
 
 **Use consistent and correct spelling**. I have been tempted many times to ignore spelling errors, but this will bite you in future when you attempt to use the search feature in your notes. Take the time to use a spellchecker and fix errors. For the same reason, you should use only a single region's spelling. Don't mix American and Australian English.
 
