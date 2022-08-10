@@ -6,7 +6,7 @@ title: NIU KQI3 Scooter
 
 Possibly the best value electric [[Scooter]] around.
 
-I discovered this scooter through Unbox Therapy and their [video](https://www.youtube.com/watch?v=wzR16X7rGs0). A short while later I saw it on sale on Amazon for just $642USD including taxes and delivery, so I snapped it up.
+I discovered this scooter through Unbox Therapy and their [video](https://www.youtube.com/watch?v=wzR16X7rGs0). A short while later I saw it on sale on Amazon for just $642USD including taxes and delivery, so I snapped it up. (it's back to $799USD at time of writing)
 
 ## Reasons I like it
 
@@ -14,7 +14,7 @@ I discovered this scooter through Unbox Therapy and their [video](https://www.yo
 - Brake lights
 - Huge deck
 - Excellent folding mechanism to fit in car or carry up stairs
-- You have to kick off before the throttle will work.to start means you can't accidentally press the throttle while standing around
+- You have to kick off before the throttle will work. This means you can't accidentally press the throttle while standing around
 - Not too heavy, weighs as much as 1.5 corgis, 45 pounds
 - Maintains speed as battery drains
 

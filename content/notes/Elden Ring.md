@@ -82,6 +82,8 @@ Parrying is easier with the *buckler*  than any other shield, because it has the
 
 [Reddit: I tested parrying frame data, here's everything I know](https://www.reddit.com/r/Eldenring/comments/t54kyj/technical_guide_help_i_tested_parrying_frame_data/)
 
+It's also worth observing how others parry, such as this [video](https://youtu.be/i8T2trUiiZY) of a player defeating a boss without ever getting hit
+
 Stagger, and Critical hit. Stagger your enemies by inflicting Poise damage which causes a glowing golden body part to appear. Critical hit by walking up to the that golden body part and pressing R1.
 
 Jumping causes the lower half of your body to become invincible for 25 out of 30 frames. Since it's just the lower half, overhead attacks still hurt you. Zullie the witch explains in this [video](https://youtu.be/8zdbqTHtnr4). Equipment weight also has no effect on jumping, unlike dodging.
