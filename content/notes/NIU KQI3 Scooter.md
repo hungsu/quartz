@@ -3,6 +3,7 @@ title: NIU KQI3 Scooter
 ---
 
 ![NIU KQI3 scooter standing upright](notes/images/NIU_KQi3.jpg)
+
 Possibly the best value electric [[Scooter]] around.
 
 I discovered this scooter through Unbox Therapy and their [video](https://www.youtube.com/watch?v=wzR16X7rGs0). A short while later I saw it on sale on Amazon for just $642USD including taxes and delivery, so I snapped it up.
