@@ -8,7 +8,6 @@ The characters between words, which convey meaning that words cannot. In English
 - [[Dashes]]
 - [[Mathematical operators]]
 - [[Foot and inch marks]]
-- [[Apostrophe]]
 
 Using these incorrectly can make your writing look amateur or even more difficult to understand. Using them well acts like a subtle, tasteful sheen of polish.
 
