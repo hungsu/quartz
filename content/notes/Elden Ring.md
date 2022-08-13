@@ -72,6 +72,10 @@ There are two [[Figuarts Minis]] for Elden Ring: [Raging Wolf](https://www.tamas
 
 Vaatividya made an art book of all Souls games, including Elden Ring, called [Soul Arts](https://www.tuneandfairweather.com/products/soul-arts-presented-by-vaatividya). Vaatividya also made a [19 minute video walkthrough](https://youtu.be/PWKHO7DYIH8) of the book.
 
+![Tree Sentinel figure](notes/images/tree-sentinel.jpg)
+
+There is a beautiful Tree Sentinel sculpture, for about [€1700](https://www.ebay.com/itm/195170057924) from Sword & Wing x Acy Studio
+
 #### Glitches
 
 [[Spiffing Brit]] found that immortality is possible by dying on purpose to the game's first boss then quitting the game. More in his [24 minute video](https://youtu.be/GwBc0ixfbzI)
@@ -109,6 +113,7 @@ Black Blade Kindred outside Bestial Sanctum ([Wiki](https://eldenring.wiki.fextr
 Bell Bearing Hunter ([Wiki](https://eldenring.wiki.fextralife.com/Bell+Bearing+Hunter)). Tried many times. He has physical attacks that do massive damage, and takes some more Piercing damage. He can throw a sword that cuts twice which is enough to kill me, often when I'm drinking a potion. My best attempt was by using Torrent to jump onto the roof of the shack and shoot him repeatedly, but I still died. A nearby T-rex dog can still reach me, and this feels cheesy. I made many attempts with a great shield and spear, but I run out of stamina so quickly that his attacks eventually break through. I was able to get him to just over 50% HP with my greatsword and *Flame of the Redmanes*, but it's often raining when I fight. Ideas...
 - Maybe I need a ranged lightning attack, or lightning grease?
 - He has a slow shield bash that leaves him vulnerable, I wonder if I can bait that more often?
+- Overall I think I will wait until I'm after level 100 to try again.
 
 ![](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/6/65/Altus_TreeSentinels.jpg)
 
