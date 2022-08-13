@@ -106,11 +106,15 @@ Black Blade Kindred outside Bestial Sanctum ([Wiki](https://eldenring.wiki.fextr
 
 ![Bell bearing hunter](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/b/b3/Elden_DragonB_BellHunter.jpg)
 
-Bell Bearing Hunter ([Wiki](https://eldenring.wiki.fextralife.com/Bell+Bearing+Hunter)). Tried many times. He has physical attacks that do massive damage, and takes some more Piercing damage. He can throw a sword that cuts twice which is enough to kill me, often when I'm drinking a potion. My best attempt was by using Torrent to jump onto the roof of the shack and shoot him repeatedly, but I still died. A nearby T-rex dog can still reach me, and this feels cheesy. I made many attempts with a great shield and spear, but i run out of stamina so quickly that his attacks eventually break through. I was able to get him to just over 50% HP with my greatsword and *Flame of the Redmanes*, but it's often raining when I fight. Maybe I need a ranged lightning attack? He has a slow shield bash that leaves him vulnerable, I wonder if I can bait that more often?
+Bell Bearing Hunter ([Wiki](https://eldenring.wiki.fextralife.com/Bell+Bearing+Hunter)). Tried many times. He has physical attacks that do massive damage, and takes some more Piercing damage. He can throw a sword that cuts twice which is enough to kill me, often when I'm drinking a potion. My best attempt was by using Torrent to jump onto the roof of the shack and shoot him repeatedly, but I still died. A nearby T-rex dog can still reach me, and this feels cheesy. I made many attempts with a great shield and spear, but I run out of stamina so quickly that his attacks eventually break through. I was able to get him to just over 50% HP with my greatsword and *Flame of the Redmanes*, but it's often raining when I fight. Ideas...
+- Maybe I need a ranged lightning attack, or lightning grease?
+- He has a slow shield bash that leaves him vulnerable, I wonder if I can bait that more often?
 
-Twin Tree Sentinels in Leyndell ([Wiki](https://eldenring.wiki.fextralife.com/Tree+Sentinel)). Only tried once. They're just a lot to handle.
+![](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/6/65/Altus_TreeSentinels.jpg)
 
-Ancient Dragon Lansseax. The Ashen Hollow did a [video about all the Elden Ring dragons](https://youtu.be/bgW53fwgyo4?t=713), including Lansseax.
+Twin Tree Sentinels in Leyndell ([Wiki](https://eldenring.wiki.fextralife.com/Tree+Sentinel)). Only tried once.
+
+Ancient Dragon Lansseax. The Ashen Hollow did a [video about all the Elden Ring dragons](https://youtu.be/bgW53fwgyo4?t=713), including Lansseax. Only tried once.
 
 ### Bosses I had trouble with, then beat
 
