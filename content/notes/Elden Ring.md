@@ -7,6 +7,12 @@ Possibly my favourite [videogame](notes/videogame) of 2022. Also the first [[Sou
 
 <!--
 Things for me to do
+Siofra River Bank site of grace, jump ledges, Armorer's Cookbook 6
+Caelid smithing stone 5
+merchant shack in caelid, night time boss
+
+Colossal Guardian
+https://youtu.be/voRoe8vnNxI
 -->
 
 ## Why the game is fun
@@ -88,3 +94,22 @@ Stagger, and Critical hit. Stagger your enemies by inflicting Poise damage which
 
 Jumping causes the lower half of your body to become invincible for 25 out of 30 frames. Since it's just the lower half, overhead attacks still hurt you. Zullie the witch explains in this [video](https://youtu.be/8zdbqTHtnr4). Equipment weight also has no effect on jumping, unlike dodging.
 
+## Bosses
+
+### Bosses I can't beat
+
+Night's cavalry in Dragonbarrow ([Wiki](https://eldenring.wiki.fextralife.com/Night's+Cavalry)). I know it can be cheesed into falling to its death but I don't want to resort to that yet.
+
+![](https://eip.gg/wp-content/uploads/2022/05/black-blade-kindred-boss-guide-featured-image-elden-ring-1024x575.jpg)
+
+Black Blade Kindred outside Bestial Sanctum ([Wiki](https://eldenring.wiki.fextralife.com/Black+Blade+Kindred)). It does SO much damage. I suppose if I can learn to read all its attacks and dodge EVERYTHING I can beat it?
+
+Bell Bearing Hunter ([Wiki](https://eldenring.wiki.fextralife.com/Bell+Bearing+Hunter)). Tried many times. He has physical attacks that do massive damage, and takes some more Piercing damage. He can throw a sword that cuts twice which is enough to kill me. He has a slow shield bash that leaves him vulnerable. My best attempt was by using Torrent to jump onto the roof of the shack and shoot him repeatedly, but I still died. A nearby T-rex dog can still reach me, and this feels cheesy. I made many attempts with a great shield and spear, but i run out of stamina so quickly that his attacks eventually break through. I was able to get him to just over 50% HP with my greatsword and *Flame of the Redmanes*, but it's often raining when I fight. Maybe I need a ranged lightning attack? 
+
+Twin Tree Sentinels in Leyndell ([Wiki](https://eldenring.wiki.fextralife.com/Tree+Sentinel)). Only tried once. They're just a lot to handle.
+
+Ancient Dragon Lansseax. The Ashen Hollow did a [video about all the Elden Ring dragons](https://youtu.be/bgW53fwgyo4?t=713), including Lansseax.
+
+### Bosses I had trouble with, then beat
+
+Putrid Avatar in Dragonbarrow ([Wiki](https://eldenring.wiki.fextralife.com/Putrid+Avatar)). I kept dying to Scarlet Rot. After reading wiki I learned the scarlet rot was dodgeable, and winning was a simple matter of using *Flame of the Redmanes* over and over to break poise and do critical hits.

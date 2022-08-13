@@ -8,6 +8,8 @@ It also has a reputation for having terrible documentation. So terrible that it 
 - [Hugo is great, it's documentation is not](https://sagar.se/blog/hugo-documentation/)
  - this article is also a great write up of [[Technical writing]] and [[Atomic notes]]
 
+Fireship did a video about [Hugo in 100 seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)
+
 ## Testimonials
 
 ### Happy
