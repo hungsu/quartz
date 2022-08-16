@@ -7,12 +7,9 @@ Possibly my favourite [videogame](notes/videogame) of 2022. Also the first [[Sou
 
 <!--
 Things for me to do
-Siofra River Bank site of grace, jump ledges, Armorer's Cookbook 6
-Caelid smithing stone 5
-merchant shack in caelid, night time boss
 
-Colossal Guardian
-https://youtu.be/voRoe8vnNxI
+Siofra River Bank site of grace, jump ledges, Armorer's Cookbook 6
+Round table hold, Talisman pouch
 -->
 
 ## Why the game is fun
@@ -87,40 +84,43 @@ This very smart person deconstructed how Elden Ring's graphics works, and in doi
 
 ## Tips for winning
 
+### Use a fun and strong build
+
+A build being the combination of stats and equipment you've chosen for your character. I've wasted a lot of time with builds, namely from Fextralife on the Elden Ring wiki, whose builds seem famous but I did not have fun or success with. In particular, his [Inquisitor build](https://www.youtube.com/watch?v=VGvtLj7Y_ws) with the Ghiza's Wheel I really disliked despite it being one of his newest builds, just 9 days old at time of writing. I've since found a player named cRPG Bro who has builds I enjoy a lot more. I have a number of builds I switch between:
+
+- Greatsword and Flame of the Redmanes
+- 2× Curved Swords. My preferred weapon most of the time for killing small and fast creatures such as dogs, but does so much damage I can even use this against some bosses.
+- Misericorde and Flame of the Redmanes, mostly following this [cRPG Bro video](https://youtu.be/DxCpnGtO1ns)
+- Shield and Spear, loosely following this [cRPG Bro video](https://youtu.be/0SQHXfu8kwk). Based on theory that a Guard Boost of 100 means you lose no stamina when you block with a shield. It achieves this by upgrading a Greatshield, then casting Scholar's Shield with your right hand. Needs 12 intelligence to use the Scholar's Shield spell which increases Guard Boost by 20–22%.
+- Colossus Greatbow, for those annoying situations where I can't hit something up close. I did try Crossbows, but I dislike that they do so little damage.
+
+Some builds I haven't tried but look promising:
+
+cRPG Bro dual hammer Strength build https://youtu.be/65QCwG8dGVg 
+
+Vampiric mace build https://youtu.be/VZSNdbyUyHU 
+
+### Do lots of Critical hits
+
+Enemies have a Stance health bar, and all attacks do some amount of Stance or Poise damage. Do enough Poise damage and the enemy will buckle over, sometimes revealing a glowing golden body part. Move quickly to that golden body part and press R1 to critical hit. Take care to NOT run - you'll do a running attack instead.
+
+### Learn to dodge
+
+Jumping causes the lower half of your body to become invincible for 25 out of 30 frames. Since it's just the lower half, overhead attacks still hurt you. Zullie the witch explains in this [video](https://youtu.be/8zdbqTHtnr4). Equipment weight also has no effect on jumping, unlike dodging.
+
+### Learn to parry
+
+Parrying causes a special kind of stagger which allows enemies to be *Critical Hit*. This stagger is separate from the Stance Break stagger, meaning you can combine both to inflict many such Critical Hits. A famous Elden Ring player, *ONGBAL*, demonstrates this [here](https://youtu.be/VV0dCv3FdGc).
+
 Parrying is easier with the *buckler*  than any other shield, because it has the *Buckler Parry*. It has more frames and a shorter start.
 ![](https://preview.redd.it/qsnofkl6vzk81.png?width=1644&format=png&auto=webp&s=d2fb2ba3255b51ae16ab781268db4d6de4130ff4)
 
 [Reddit: I tested parrying frame data, here's everything I know](https://www.reddit.com/r/Eldenring/comments/t54kyj/technical_guide_help_i_tested_parrying_frame_data/)
 
-It's also worth observing how others parry, such as this [video](https://youtu.be/i8T2trUiiZY) of a player defeating a boss without ever getting hit
+It's also worth observing how others parry, such as this [video](https://youtu.be/i8T2trUiiZY) of a player defeating a boss without ever getting hit.
 
-Stagger, and Critical hit. Stagger your enemies by inflicting Poise damage which causes a glowing golden body part to appear. Critical hit by walking up to the that golden body part and pressing R1.
+I've heard there is a [Golden Parry](https://eldenring.wiki.fextralife.com/Golden+Parry) skill which makes parry even easier. Here's a [video of where to find it](https://youtu.be/DxCpnGtO1ns?t=680), within the Capital outskirts.
 
-Jumping causes the lower half of your body to become invincible for 25 out of 30 frames. Since it's just the lower half, overhead attacks still hurt you. Zullie the witch explains in this [video](https://youtu.be/8zdbqTHtnr4). Equipment weight also has no effect on jumping, unlike dodging.
+### Bosses
 
-## Bosses
-
-### Bosses I can't beat
-
-Night's cavalry in Dragonbarrow ([Wiki](https://eldenring.wiki.fextralife.com/Night's+Cavalry)). I know it can be cheesed into falling to its death but I don't want to resort to that yet.
-
-![](https://eip.gg/wp-content/uploads/2022/05/black-blade-kindred-boss-guide-featured-image-elden-ring-1024x575.jpg)
-
-Black Blade Kindred outside Bestial Sanctum ([Wiki](https://eldenring.wiki.fextralife.com/Black+Blade+Kindred)). It does SO much damage. I suppose if I can learn to read all its attacks and dodge EVERYTHING I can beat it?
-
-![Bell bearing hunter](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/b/b3/Elden_DragonB_BellHunter.jpg)
-
-Bell Bearing Hunter ([Wiki](https://eldenring.wiki.fextralife.com/Bell+Bearing+Hunter)). Tried many times. He has physical attacks that do massive damage, and takes some more Piercing damage. He can throw a sword that cuts twice which is enough to kill me, often when I'm drinking a potion. My best attempt was by using Torrent to jump onto the roof of the shack and shoot him repeatedly, but I still died. A nearby T-rex dog can still reach me, and this feels cheesy. I made many attempts with a great shield and spear, but I run out of stamina so quickly that his attacks eventually break through. I was able to get him to just over 50% HP with my greatsword and *Flame of the Redmanes*, but it's often raining when I fight. Ideas...
-- Maybe I need a ranged lightning attack, or lightning grease?
-- He has a slow shield bash that leaves him vulnerable, I wonder if I can bait that more often?
-- Overall I think I will wait until I'm after level 100 to try again.
-
-![](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/6/65/Altus_TreeSentinels.jpg)
-
-Twin Tree Sentinels in Leyndell ([Wiki](https://eldenring.wiki.fextralife.com/Tree+Sentinel)). Only tried once.
-
-Ancient Dragon Lansseax. The Ashen Hollow did a [video about all the Elden Ring dragons](https://youtu.be/bgW53fwgyo4?t=713), including Lansseax. Only tried once.
-
-### Bosses I had trouble with, then beat
-
-Putrid Avatar in Dragonbarrow ([Wiki](https://eldenring.wiki.fextralife.com/Putrid+Avatar)). I kept dying to Scarlet Rot. After reading wiki I learned the scarlet rot was dodgeable, and winning was a simple matter of using *Flame of the Redmanes* over and over to break poise and do critical hits.
+There's so much to talk about, I've moved it all to its own page, [Elden Ring bosses](notes/Elden%20Ring%20bosses).

@@ -2,7 +2,8 @@
 title: "Berserk"
 ---
 ![[notes/images/berserk-banner.jpg]]
-Manga series and world by Kentaro Miura.
+
+One of the Big Three of  [[Seinen]] [[Manga]], by Kentaro Miura.
 
 I first encountered the series in the early 2000s as a young teen, in its anime adaptation. I dismissed it at the time, thinking it was nothing special, watching Rurouni Kenshin and other shonen series instead. 
 
