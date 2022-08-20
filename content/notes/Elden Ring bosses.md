@@ -1,9 +1,6 @@
 ## Bosses I can't beat
 
 
-![](https://eip.gg/wp-content/uploads/2022/05/black-blade-kindred-boss-guide-featured-image-elden-ring-1024x575.jpg)
-
-Black Blade Kindred outside Bestial Sanctum ([Wiki](https://eldenring.wiki.fextralife.com/Black+Blade+Kindred)). It does SO much damage. I've gotten very close, using Misericorde with Flame of the Redmanes and Latenna the Albinauric. I suppose I'll just keep trying!
 
 ![Bell bearing hunter](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/b/b3/Elden_DragonB_BellHunter.jpg)
 
@@ -35,3 +32,8 @@ Putrid Avatar in Dragonbarrow ([Wiki](https://eldenring.wiki.fextralife.com/Putr
 [Night's cavalry in Dragonbarrow](https://eldenring.wiki.fextralife.com/Night's+Cavalry). I know it can be cheesed into falling to its death but I didn't want to do that. Ultimately found that using a shield and spear made it extremely easy. It does single big attacks that can be easily blocked, after which I can do a Guard Counter for big damage. It's horse soon died and I could follow with a critical hit.
 
 [Godskin Noble](https://eldenring.wiki.fextralife.com/Godskin+Noble) on the bridge to the Divine Tower of Liurnia. This took me maybe an hour to beat. I tried initially with a shield and spear, but kept dying in its final stages where it starts to use a rapid stabbing move. I switched to a Misericorde, and found myself getting trapped by its rolling attack. Finally realised if I stayed at the maximum range of *Flame of the Redmanes*, I could avoid most of its attacks with a slight sidestep or dodge, and could keep it stunned before it initiated its rolling attack.
+
+
+![](https://eip.gg/wp-content/uploads/2022/05/black-blade-kindred-boss-guide-featured-image-elden-ring-1024x575.jpg)
+
+Black Blade Kindred outside Bestial Sanctum ([Wiki](https://eldenring.wiki.fextralife.com/Black+Blade+Kindred)). It does SO much damage. I got very close, using Misericorde with Flame of the Redmanes and Latenna the Albinauric. I tried briefly with a Greatbow, hoping to stay out of range, but that didn't do well at all. I finally won with *Greatsword* using the *Determination* skill which buffs the next attack, Claw Talisman to buff jumping attacks, and repeatedly using jumping R2 attacks. I had Latenna as backup, though she died very quickly.
