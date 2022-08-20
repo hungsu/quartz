@@ -1,13 +1,15 @@
 ---
+
 title: "Elden Ring"
 ---
+
 ![](https://c.neevacdn.net/image/fetch/s--dOUFa4O7--/https%3A//www.thathashtagshow.com/wp-content/uploads/2021/03/Elden-Ring-Cover-1024x512.jpg?savepath=Elden-Ring-Cover-1024x512.jpg)
 
 Possibly my favourite [videogame](notes/videogame) of 2022. Also the first [[Souls-like]] game I ever played.
 
 <!--
 Things for me to do
-
+Ainsel river Main, speak to miniature ranni doll, then south to Uhl Palace Ruins, Clayman ashes
 Siofra River Bank site of grace, jump ledges, Armorer's Cookbook 6
 Round table hold, Talisman pouch
 -->
@@ -27,7 +29,7 @@ For more, this article is quite fantastic: [The Boschian Horror of ‘Elden Ring
 
 **It has one of the best Open worlds, ever**. Elden Ring presents options that give every player an entirely unique experience which gives all players something to talk about.  The last few years of open world games have been full of excessive handholding and on screen guides that throttle the player's desire to explore. Elden Ring has almost no guides and both forces and encourages the player to explore. I haven't felt quite so adventurous since I played Morrowind. Writing on games made a 10 minute video talking more: [Why Exploring in Elden Ring Feels So Good](https://youtu.be/qJy8j64pTV4)
 
-**Rich lore**. The visuals of the world and its people are all tied together with some incredible lore and worldbuilding, aided by [[George R R Martin]]. This [Gamespot article](https://www.gamespot.com/articles/elden-ring-heres-the-lore-and-history-of-the-lands-between/1100-6502537/) explains it better. If you have the time, the Elden ring lore videos by [Vaatividya](https://www.youtube.com/watch?v=DYDs_Inzkz4) are so amazing they were reposted on Elden Ring's official channel.
+**Rich lore**. The visuals of the world and its people are all tied together with some incredible lore and worldbuilding, aided by [[George R R Martin]].[^1] This [Gamespot article](https://www.gamespot.com/articles/elden-ring-heres-the-lore-and-history-of-the-lands-between/1100-6502537/) explains it better. If you have the time, the Elden ring lore videos by [Vaatividya](https://www.youtube.com/watch?v=DYDs_Inzkz4) are so amazing they were reposted on Elden Ring's official channel.
 
 ## Not so fun things
 
@@ -77,7 +79,6 @@ There is a beautiful Tree Sentinel sculpture, for about [€1700](https://www.eb
 
 [[Spiffing Brit]] found that immortality is possible by dying on purpose to the game's first boss then quitting the game. More in his [24 minute video](https://youtu.be/GwBc0ixfbzI)
 
-
 #### Game Engine
 
 This very smart person deconstructed how Elden Ring's graphics works, and in doing so also also dove deep into DirectX12: [Behind the Pretty Frames: Elden Ring](http://www.mamoniem.com/behind-the-pretty-frames-elden-ring/)
@@ -88,7 +89,7 @@ This very smart person deconstructed how Elden Ring's graphics works, and in doi
 
 A build being the combination of stats and equipment you've chosen for your character. I've wasted a lot of time with builds, namely from Fextralife on the Elden Ring wiki, whose builds seem famous but I did not have fun or success with. In particular, his [Inquisitor build](https://www.youtube.com/watch?v=VGvtLj7Y_ws) with the Ghiza's Wheel I really disliked despite it being one of his newest builds, just 9 days old at time of writing. I've since found a player named cRPG Bro who has builds I enjoy a lot more. I have a number of builds I switch between:
 
-- Greatsword and Flame of the Redmanes
+- Greatsword and Flame of the Redmanes. Particularly amazing on horseback
 - 2× Curved Swords. My preferred weapon most of the time for killing small and fast creatures such as dogs, but does so much damage I can even use this against some bosses.
 - Misericorde and Flame of the Redmanes, mostly following this [cRPG Bro video](https://youtu.be/DxCpnGtO1ns)
 - Shield and Spear, loosely following this [cRPG Bro video](https://youtu.be/0SQHXfu8kwk). Based on theory that a Guard Boost of 100 means you lose no stamina when you block with a shield. It achieves this by upgrading a Greatshield, then casting Scholar's Shield with your right hand. Needs 12 intelligence to use the Scholar's Shield spell which increases Guard Boost by 20–22%.
@@ -104,7 +105,23 @@ Vampiric mace build https://youtu.be/VZSNdbyUyHU
 
 Enemies have a Stance health bar, and all attacks do some amount of Stance or Poise damage. Do enough Poise damage and the enemy will buckle over, sometimes revealing a glowing golden body part. Move quickly to that golden body part and press R1 to critical hit. Take care to NOT run - you'll do a running attack instead.
 
-### Learn to dodge
+| Weapon and attack           | Poise damage |
+| --------------------------- | ------------ |
+| Misericorde R1              | 4            |
+| Misericorde R2              | 8            |
+| Misericorde charged R2      | 24           |
+| Misericorde jumping R1      | 6            |
+| Misericorde jumping R2      | 16           |
+| Greatsword R1               | 20           |
+| Greatsword R2               | 20           |
+| Greatsword charged R2       | 48           |
+| Greatsword jumping R1       | 20           |
+| Greatsword jumping R2       | 32           |
+| Greatsword stamp upward cut | 44           |
+
+Source: [This is how much Poise Damage EVERY SINGLE Weapon does](https://www.youtube.com/watch?v=B4-69yJdd70)
+
+### Learn to dodge and jump
 
 Jumping causes the lower half of your body to become invincible for 25 out of 30 frames. Since it's just the lower half, overhead attacks still hurt you. Zullie the witch explains in this [video](https://youtu.be/8zdbqTHtnr4). Equipment weight also has no effect on jumping, unlike dodging.
 
@@ -124,3 +141,5 @@ I've heard there is a [Golden Parry](https://eldenring.wiki.fextralife.com/Golde
 ### Bosses
 
 There's so much to talk about, I've moved it all to its own page, [Elden Ring bosses](notes/Elden%20Ring%20bosses).
+
+[^1]: Interview with George https://youtu.be/xHzJG1hHTdU

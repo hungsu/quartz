@@ -1,9 +1,9 @@
-### Bosses I can't beat
+## Bosses I can't beat
 
 
 ![](https://eip.gg/wp-content/uploads/2022/05/black-blade-kindred-boss-guide-featured-image-elden-ring-1024x575.jpg)
 
-Black Blade Kindred outside Bestial Sanctum ([Wiki](https://eldenring.wiki.fextralife.com/Black+Blade+Kindred)). It does SO much damage. I suppose if I can learn to read all its attacks and dodge EVERYTHING I can beat it?
+Black Blade Kindred outside Bestial Sanctum ([Wiki](https://eldenring.wiki.fextralife.com/Black+Blade+Kindred)). It does SO much damage. I've gotten very close, using Misericorde with Flame of the Redmanes and Latenna the Albinauric. I suppose I'll just keep trying!
 
 ![Bell bearing hunter](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/b/b3/Elden_DragonB_BellHunter.jpg)
 
@@ -24,7 +24,7 @@ Twin Tree Sentinels in Leyndell ([Wiki](https://eldenring.wiki.fextralife.com/Tr
 
 Ancient Dragon Lansseax. The Ashen Hollow did a [video about all the Elden Ring dragons](https://youtu.be/bgW53fwgyo4?t=713), including Lansseax. Only tried once.
 
-### Bosses I had trouble with, then beat
+## Bosses I had trouble with, then beat
 
 Putrid Avatar in Dragonbarrow ([Wiki](https://eldenring.wiki.fextralife.com/Putrid+Avatar)). I kept dying to Scarlet Rot. After reading wiki I learned the scarlet rot was dodgeable, and winning was a simple matter of dodging sideways, following with *Flame of the Redmanes* twice to break poise and do critical hits.
 
