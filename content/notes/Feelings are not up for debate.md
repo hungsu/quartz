@@ -18,13 +18,13 @@ One can think and speculate:
 
 When trying to vent feelings, it can be tempting for the listener to question if the feelings are even real. This is never a productive line of questioning, and almost always leads to the inflammation of feelings and sometimes to fights. For example:
 
-A: I feel ugly
-B: You're not ugly! How can you even think that?
+- A: I feel ugly
+- B: You're not ugly! How can you even think that?
 
 This appears to be wholesome feedback, but in fact it denies the venter's feelings.
 
-A: I feel ugly
-B: What do you mean?
-A: I have ____
+- A: I feel ugly.
+- B: What do you mean?
+- A: My hair always looks terrible. No matter what I tell the hairstylist I feel like I come out looking awful. I don't know how other people have such beautiful hair.
 
 Understanding this separation between thoughts and feelings makes it much easier to manage both.
