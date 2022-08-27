@@ -1,17 +1,5 @@
 ## Bosses I can't beat
 
-![Bell bearing hunter](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/b/b3/Elden_DragonB_BellHunter.jpg)
-
-Bell Bearing Hunter ([Wiki](https://eldenring.wiki.fextralife.com/Bell+Bearing+Hunter)). Tried many times. He has physical attacks that do massive damage, and takes some more Piercing damage. He can throw a sword that cuts twice which is enough to kill me, often when I'm drinking a potion. My best attempt was by using Torrent to jump onto the roof of the shack and shoot him repeatedly, but I still died. A nearby T-rex dog can still reach me, and this feels cheesy. I made many attempts with a great shield and spear, but I run out of stamina so quickly that his attacks eventually break through. I was able to get him to just over 50% HP with my greatsword and *Flame of the Redmanes*, but it's often raining when I fight. Ideas...
-- Maybe I need a ranged lightning attack, or lightning grease?
-- He has a slow shield bash that leaves him vulnerable, I wonder if I can bait that more often? This guy explains how to bait it https://youtu.be/O_kYg4T8DHU 
-- demo of baiting shield bash and poise breaking 
-- maybe I can learn to parry?
-	- This [guide](https://youtu.be/oKgRvJsNfxc) looks great. But the guide's creator also admits he gets beaten a lot by this variant of the boss!
-	- This player beat him with daggers without taking a single hit! https://youtu.be/zt7hyCE1IoU 
-	- This player beat him with a club without taking any hits. He makes use of a weapon parry and jumping heavy attacks to keep him perpetually staggered. 
-- this guy uses a greatshield and hoarfrost stomp https://youtu.be/aSAmcyAe-8s 
-- Overall I think I will wait until I'm after level 100 to try again.
 
 
 Ancient Dragon Lansseax. The Ashen Hollow did a [video about all the Elden Ring dragons](https://youtu.be/bgW53fwgyo4?t=713), including Lansseax. Only tried once.
@@ -36,3 +24,18 @@ Black Blade Kindred outside Bestial Sanctum ([Wiki](https://eldenring.wiki.fextr
 ![](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/6/65/Altus_TreeSentinels.jpg)
 
 [Twin Tree Sentinels in Leyndell](https://eldenring.wiki.fextralife.com/Tree+Sentinel). This ended up being a simple matter of baiting one out to fight alone, killing it, then killing the other one. So easy I should do it more often.
+
+
+![Bell bearing hunter](https://oyster.ignimgs.com/mediawiki/apis.ign.com/elden-ring/b/b3/Elden_DragonB_BellHunter.jpg)
+
+[Bell Bearing Hunter](https://eldenring.wiki.fextralife.com/Bell+Bearing+Hunter). Tried many times. He has physical attacks that do massive damage, and takes some more Piercing damage. He can throw a sword that cuts twice which is enough to kill me, often when I'm drinking a potion. My best attempt was by using Torrent to jump onto the roof of the shack and shoot him repeatedly, but I still died. A nearby T-rex dog can still reach me, and this feels cheesy. I made many attempts with a great shield and spear, but I run out of stamina so quickly that his attacks eventually break through. I was able to get him to just over 50% HP with my greatsword and *Flame of the Redmanes*, but it's often raining when I fight. Ideas...
+- Maybe I need a ranged lightning attack, or lightning grease?
+- He has a slow shield bash that leaves him vulnerable, I wonder if I can bait that more often? This guy explains how to bait it https://youtu.be/O_kYg4T8DHU
+- demo of baiting shield bash and poise breaking
+- maybe I can learn to parry?
+	- This [guide](https://youtu.be/oKgRvJsNfxc) looks great. But the guide's creator also admits he gets beaten a lot by this variant of the boss!
+	- This player beat him with daggers without taking a single hit! https://youtu.be/zt7hyCE1IoU
+	- This player beat him with a club without taking any hits. He makes use of a weapon parry and jumping heavy attacks to keep him perpetually staggered.
+- this guy uses a greatshield and hoarfrost stomp https://youtu.be/aSAmcyAe-8s
+
+I finally beat him on 2022-08-26 at level 110, and it was hilariously easy. I just *Flame of the Redmanes* twice to break his poise, and did Critical hits with *Misericorde*. It wasn't raining when I fought, I wonder if that made a difference?
