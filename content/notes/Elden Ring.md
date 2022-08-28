@@ -92,7 +92,7 @@ A build being the combination of stats and equipment you've chosen for your char
 - Greatsword and Flame of the Redmanes. Particularly amazing on horseback
 - 2× Curved Swords. My preferred weapon most of the time for killing small and fast creatures such as dogs, but does so much damage I can even use this against some bosses.
 - Misericorde and Flame of the Redmanes, mostly following this [cRPG Bro video](https://youtu.be/DxCpnGtO1ns)
-- Shield and Spear, loosely following this [cRPG Bro video](https://youtu.be/0SQHXfu8kwk). Based on theory that a Guard Boost of 100 means you lose no stamina when you block with a shield. It achieves this by upgrading a Greatshield, then casting Scholar's Shield with your right hand. Needs 12 intelligence to use the Scholar's Shield spell which increases Guard Boost by 20–22%.
+- Shield and Spear, loosely following this [cRPG Bro video](https://youtu.be/3CN852mQY2Q). Based on theory that a Guard Boost of 100 means you lose no stamina when you block with a shield. It achieves this by upgrading a Greatshield, then casting Scholar's Shield with your right hand. Needs 12 intelligence to use the Scholar's Shield spell which increases Guard Boost by 20–22%.
 - Colossus Greatbow, for those annoying situations where I can't hit something up close. I did try Crossbows, but I dislike that they do so little damage.
 
 Some builds I haven't tried but look promising:
