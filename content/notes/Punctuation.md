@@ -4,12 +4,37 @@ title: "Punctuation"
 
 The characters between words, which convey meaning that words cannot. In English, they can include:
 
-- [[Quotation marks]]
-- [[Dashes]]
-- [[Mathematical operators]]
-- [[Foot and inch marks]]
+- [[Quotation marks]] such as  `“”`
+- [[Dashes]] such as `—`
+- [[Mathematical operators]]  such as `×`
+- [[Foot and inch marks]] `′`
 
-Using these incorrectly can make your writing look amateur or even more difficult to understand. Using them well acts like a subtle, tasteful sheen of polish.
+It is common to approximate punctuation with a similar character because the real character is not available on the writer's keyboard. Some approximations I see:
+
+|                     | Approximation | Real    |
+| ------------------- | ------------- | ------- |
+| Dash                | -             | —       |
+| trademark           | (tm)          | ™       |
+| Copyright           | (c)           | ©       |
+| Quotation (English) | ""            | “”      |
+| Foot or Prime mark  | '             | &prime; |
+| Inch mark           | "             | &Prime; |
+| Multiplication      | x or *        | ×       |
+| Division            | /             | ÷       |
+
+But such approximations of punctuation are ugly, even problematic. Consider these two examples:
+
+> "Be yourself; everyone else is already taken."<br/>&hyphen; Oscar Wilde
+
+The same example again with real punctuation:
+
+> “Be yourself; everyone else is already taken.”<br/>― Oscar Wilde
+
+Foot and prime marks can be especially problematic.
+- "She’s 6' 10"."
+- “She’s 6′ 10″.”
+
+In particular, approximating Mathematics or Finance characters is frequently confusing. Multiplication `×` with the letter `x` is problematic because in maths `x` can refer to a graph axis as well as an algebraic value.
 
 ## Additional reading
 
@@ -23,4 +48,4 @@ If you think you're a punctuation expert, try pasting your writing into [Just th
 
 [Between the words](https://www.c82.net/work/?id=347) - posters of just the punctuation of major literary works such as Alice in Wonderland
 
-[[Shady Characters by Keith Houston]] looks interesting, though I haven't read it yet.
+[Shady Characters by Keith Houston](https://www.amazon.com/Shady-Characters-Punctuation-Symbols-Typographical/dp/0393064425) looks interesting, though I haven't read it yet.
