@@ -28,13 +28,23 @@ More at [The Architecture of Open Source Applications](http://aosabook.org/en/in
 
 ## Components of a design document
 
+### A convenient location and format
+
 Future maintainers will want to read it. Thus it's worth placing it somewhere they can easily read it. One recommendation is to make a file called `ARCHITECTURE.md` in the software repository, adjacent to its `README.md`. [^2]
+
+### Dependencies
 
 Significant files and modules should be mentioned by name, but not linked directly as such links can expire. Searching for the name encourages future maintainers to explore.
 
-**Invariants**, or exclusions. If you have intentionally excluded something from the design, that thing should be defined along with the reason why. Future maintainers cannot know why something doesn't exist.[^3]
+### Invariants or exclusions
 
-**Diagrams**. These might be based on the C4 model: context, containers, components, code. Personally I prefer to rename context to *customers*. InfoQ has a [guide to the C4 model](https://www.infoq.com/articles/C4-architecture-model/).
+If you have intentionally excluded something from the design, that thing should be defined along with the reason why. Future maintainers cannot know why something doesn't exist.[^3]
+
+### Diagrams
+
+![[notes/images/c4_diagram.jpg]]
+
+These might be based on the C4 model: context, containers, components, code. Personally I prefer to rename context to *customers*. InfoQ has a [guide to the C4 model](https://www.infoq.com/articles/C4-architecture-model/).
 
 <!-- Eventually the section below should be removed -->
 
