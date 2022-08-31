@@ -18,6 +18,9 @@ This site doesn't use ads, cookies, or analytics and never will. I'm privacy fir
 ## Blog, sort of
 
 ### 2022
+
+August 30: I've been thinking a lot about [blockquotes](notes/Blockquote), and [Software Design Documents](notes/Software%20Design%20document)
+
 August 1: I got my first scooter, a [NIU KQI3 Scooter](notes/NIU%20KQI3%20Scooter)
 
 July 27: I was alarmed by a comment on Hacker News of a person who didn't see the point of linking their notes. So I started writing some reasons why [you should link your notes](notes/You%20should%20link%20your%20notes).
