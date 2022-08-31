@@ -42,7 +42,7 @@ If you have intentionally excluded something from the design, that thing should 
 
 ### Diagrams
 
-![[notes/images/c4_diagram.jpg]]
+![C4 diagram for internet banking system](notes/images/c4_diagram.jpg)
 
 These might be based on the C4 model: context, containers, components, code. Personally I prefer to rename context to *customers*. InfoQ has a [guide to the C4 model](https://www.infoq.com/articles/C4-architecture-model/).
 
