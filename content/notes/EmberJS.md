@@ -10,7 +10,7 @@ A framework for making [Single page apps](notes/SPA). Popularised a [UI engineer
 
 Things admittedly look bad for Ember right now. According to [State of JS 2021](https://2021.stateofjs.com/en-US/libraries/front-end-frameworks/front_end_frameworks_experience_ranking), only 21% of people who used Ember would choose to use it again:
 
-![[StateofJS_2021_satisfaction.png]]
+![State of JS 2021 satisfaction graph ](notes/images/StateofJS_2021_satisfaction.png)
 
 So why choose Ember?
 
