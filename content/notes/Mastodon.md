@@ -1,3 +1,7 @@
+---
+title: Mastodon
+---
+
 ![](notes/images/mastodon.jpg)
 
 A [[Federated service|Federated]] social network using [[ActivityPub]], competing directly with [[Twitter]] and gaining great interest in 2022-11 with Elon Musk's acquisition of Twitter.
@@ -7,6 +11,8 @@ My Mastodon profile is [here](https://mstdn.social/@hungsu), on mstdn.social, on
 ## Advantages over Twitter
 
 **No ads or promoted content**. Twitter's ads are *always* repulsive low value content, even when tailored to me. They are either links to blog posts *saturated* with even more ads, or products I never buy.
+
+**No intentional misinformation** (yet). Around 2022-Nov-09, Twitter announced an $8/month subscription it called *verification*. This is a change from Twitter's previous verification method which required government identification. Around 2022-Nov-11, a Twitter account impersonating Eli Lilly tweeted that all insulin would be free. Eli Lilly's stock price tanked afterward. https://arstechnica.com/science/2022/11/musks-twitter-chaos-tosses-outrageous-insulin-pricing-into-the-spotlight/
 
 **No algorithm or viral content**. Mastodon has a purely chronological timeline with no algorithm. This means users are left with the thought exercise of finding things of interest.
 
