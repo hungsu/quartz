@@ -19,6 +19,8 @@ This site doesn't use ads, cookies, or analytics and never will. I'm privacy fir
 
 ### 2022
 
+November 12: With Elon Musk's acquisition of Twitter I've started a new [Mastodon](notes/Mastodon) account
+
 August 30: I've been thinking a lot about [blockquotes](notes/Blockquote), and [Software Design Documents](notes/Software%20Design%20document)
 
 August 1: I got my first scooter, a [NIU KQI3 Scooter](notes/NIU%20KQI3%20Scooter)
