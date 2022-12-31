@@ -45,6 +45,14 @@ The Verge adds a great deal of flourish to their blockquotes
 
 ![](notes/images/theverge_blockquote.jpg)
 
+[The Cut](https://www.thecut.com/article/meghan-markle-profile-interview.html) has some very loud blockquotes, off to one side, in caps, with wider letter spacing, plenty of white space all around, and with a thick bar on top for good measure.
+
+![[thecut_blockquote.jpg]]
+
+[Farnam Street](https://fs.blog/munger-worldly-wisdom/?ref=refind) features a handsome bold geometric sans font for the blockquote itself and a smaller text size on the last line.
+
+![[farnamstreet_blockquote.jpg]]
+
 ## How to implement
 
 ![](notes/images/windows10_emoji_keyboard_symbols.jpg)
